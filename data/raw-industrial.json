@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-03T04:47:46Z",
+    "generated_at": "2026-08-03T08:16:42Z",
     "version": "2.0.0",
     "pipeline": "dig.py (concurrent FRED + PubChem + RSS + seed fallback)",
     "quick": false,
@@ -250,6 +250,22 @@
   ],
   "headlines": [
     {
+      "title": "India Moves to Rescue Renewable Energy Projects Stalled by Grid Shortages",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/India-Moves-to-Rescue-Renewable-Energy-Projects-Stalled-by-Grid-Shortages.html",
+      "source": "oilprice.com",
+      "date": "Mon, 03 Aug 2026",
+      "category": "Supply chain",
+      "summary": ""
+    },
+    {
+      "title": "Greek LNG Ship Safely Clears Hormuz After Maritime Incident",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Greek-LNG-Ship-Safely-Clears-Hormuz-After-Maritime-Incident.html",
+      "source": "oilprice.com",
+      "date": "Mon, 03 Aug 2026",
+      "category": "Markets",
+      "summary": ""
+    },
+    {
       "title": "Oil Prices Plunge 5% as Trump Halts Iran Strike Plans",
       "url": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Prices-Plunge-5-as-Trump-Halts-Iran-Strike-Plans.html",
       "source": "oilprice.com",
@@ -296,22 +312,6 @@
       "date": "Sat, 01 Aug 2026",
       "category": "Demand",
       "summary": ""
-    },
-    {
-      "title": "AI’s Electricity Demand Is Not the Real Problem. Its Inflexibility Is",
-      "url": "https://oilprice.com/Energy/Energy-General/AIs-Electricity-Demand-Is-Not-the-Real-Problem-Its-Inflexibility-Is.html",
-      "source": "oilprice.com",
-      "date": "Sat, 01 Aug 2026",
-      "category": "Demand",
-      "summary": ""
-    },
-    {
-      "title": "Suriname's $26 Billion Oil Bet Is Finally Paying Off",
-      "url": "https://oilprice.com/Energy/Energy-General/Surinames-26-Billion-Oil-Bet-Is-Finally-Paying-Off.html",
-      "source": "oilprice.com",
-      "date": "Sat, 01 Aug 2026",
-      "category": "Markets",
-      "summary": ""
     }
   ],
   "chemistry": [
@@ -319,6 +319,12 @@
       "compound": "Nickel(II) hydroxide",
       "formula": "H2NiO2",
       "mw": "92.708",
+      "source": "PubChem"
+    },
+    {
+      "compound": "Cobalt sulfate heptahydrate",
+      "formula": "CoH14O11S",
+      "mw": "281.11",
       "source": "PubChem"
     },
     {
@@ -334,21 +340,15 @@
       "source": "PubChem"
     },
     {
-      "compound": "Cobalt sulfate heptahydrate",
-      "formula": "CoH14O11S",
-      "mw": "281.11",
+      "compound": "Graphite",
+      "formula": "C",
+      "mw": "12.011",
       "source": "PubChem"
     },
     {
       "compound": "Uranium(VI) oxide",
       "formula": "O3U",
       "mw": "286.027",
-      "source": "PubChem"
-    },
-    {
-      "compound": "Graphite",
-      "formula": "C",
-      "mw": "12.011",
       "source": "PubChem"
     }
   ]
