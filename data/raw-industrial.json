@@ -1,0 +1,9 @@
+{
+  "date": "2025-01-01",
+  "sources": "USGS, EIA, PubChem, World Bank open commodity data, public mining RSS",
+  "prices": [
+    {"mineral":"Lithium Carbonate","rate":"14800","change":"1.8","chemistry":"Li2CO3 — critical cathode precursor requiring >99.5% purity","econ":"Australian brine vs Chinese refining dominance creating supply tightness"},
+    {"mineral":"Cobalt","rate":"28000","change":"-0.8","chemistry":"Co used in battery stability, extraction via sulfuric acid leaching","econ":"DRC geopolitical risk vs surging EV demand"}
+  ],
+  "raw_text": "Latest public industrial facts only. Daily Action will expand this with real USGS/EIA/PubChem data."
+}
