@@ -18,7 +18,7 @@
       "source": "INN / CME / Fastmarkets aggregate (assessed)",
       "assessment_date": "2026-07-22",
       "reliability": "assessed-seed",
-      "chemistry_key_fact": "Li2CO3 · 99.5% min. Battery-grade threshold; hydroxide route (LiOH·H2O) preferred for high-nickel cathodes.",
+      "chemistry_key_fact": "Li2CO3 Â· 99.5% min. Battery-grade threshold; hydroxide route (LiOHÂ·H2O) preferred for high-nickel cathodes.",
       "economic_note": "More than doubled from the Jun-2025 ~$8,100/t trough on supply discipline and EV/storage demand. IEA: prices >2x year-ago."
     },
     {
@@ -33,7 +33,7 @@
       "source": "INN / CME / Fastmarkets aggregate (assessed)",
       "assessment_date": "2026-07-22",
       "reliability": "assessed-seed",
-      "chemistry_key_fact": "LiOH·H2O; required for NMC/NCA high-nickel cathodes (low calcination temp, no Li2O loss).",
+      "chemistry_key_fact": "LiOHÂ·H2O; required for NMC/NCA high-nickel cathodes (low calcination temp, no Li2O loss).",
       "economic_note": "Tracks carbonate with a grade premium; supply constrained by conversion capacity outside China."
     },
     {
@@ -48,8 +48,8 @@
       "source": "Africa Gold Suppliers / CME aggregate (assessed)",
       "assessment_date": "2026-05-22",
       "reliability": "assessed-seed",
-      "chemistry_key_fact": "Co metal 99.8%; sulfate CoSO4·7H2O is the battery intermediate; DRC quota system tightens supply.",
-      "economic_note": "Recovered from ~$24,300/t (2025) on DRC export quota tightening; CME reports >$25/lb intra-2026. Wide reporting range — treat with caution."
+      "chemistry_key_fact": "Co metal 99.8%; sulfate CoSO4Â·7H2O is the battery intermediate; DRC quota system tightens supply.",
+      "economic_note": "Recovered from ~$24,300/t (2025) on DRC export quota tightening; CME reports >$25/lb intra-2026. Wide reporting range â treat with caution."
     },
     {
       "id": "nickel",
@@ -93,7 +93,7 @@
       "source": "FRED (PALUMUSDM), 2026-06-01",
       "assessment_date": "2026-06-01",
       "reliability": "live-fred",
-      "chemistry_key_fact": "Primary Al via Bayer+Halls-Heroult; 13-16 MWh/t embodied energy — power cost is the price floor.",
+      "chemistry_key_fact": "Primary Al via Bayer+Halls-Heroult; 13-16 MWh/t embodied energy â power cost is the price floor.",
       "economic_note": "Grid/electrification demand vs Chinese smelting cap; scrap/EAF adjacency for construction materials."
     },
     {
@@ -183,7 +183,7 @@
       "source": "Assessed (battery-grade market)",
       "assessment_date": "2026-06-30",
       "reliability": "assessed-seed",
-      "chemistry_key_fact": "MnSO4·H2O for LMFP/NMC; China ~95% of battery-grade Mn processing.",
+      "chemistry_key_fact": "MnSO4Â·H2O for LMFP/NMC; China ~95% of battery-grade Mn processing.",
       "economic_note": "LMFP adoption lifts demand; processing bottleneck outside China."
     },
     {
@@ -198,7 +198,7 @@
       "source": "Assessed (China domestic administered market)",
       "assessment_date": "2026-07-15",
       "reliability": "assessed-seed",
-      "chemistry_key_fact": "Nd2O3/Pr6O11 feed for Nd-Fe-B magnets; administered pricing — not a free-market LME-type price.",
+      "chemistry_key_fact": "Nd2O3/Pr6O11 feed for Nd-Fe-B magnets; administered pricing â not a free-market LME-type price.",
       "economic_note": "China domestic vs ex-China dual price regime; magnet demand (EV/wind/defence) structural."
     },
     {
@@ -283,7 +283,7 @@
   ],
   "chemistry": [
     {"compound": "Lithium carbonate", "formula": "Li2CO3", "mw": 73.89, "source": "PubChem"},
-    {"compound": "Cobalt sulfate heptahydrate", "formula": "CoSO4·7H2O", "mw": 281.10, "source": "PubChem"},
+    {"compound": "Cobalt sulfate heptahydrate", "formula": "CoSO4Â·7H2O", "mw": 281.10, "source": "PubChem"},
     {"compound": "Nickel(II) hydroxide", "formula": "Ni(OH)2", "mw": 92.71, "source": "PubChem"},
     {"compound": "Copper(II) oxide", "formula": "CuO", "mw": 79.55, "source": "PubChem"},
     {"compound": "Graphite", "formula": "C", "mw": 12.01, "source": "PubChem"},
