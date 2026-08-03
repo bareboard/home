@@ -22,7 +22,9 @@ Run:  python3 scripts/dig.py [--quick]
 
 import csv
 import io
+import itertools
 import json
+import re
 import sys
 import urllib.request
 import urllib.parse
@@ -66,6 +68,55 @@ CATEGORY_KEYWORDS = {
                "semiconductor", "defence", "defense", "data center", "ai"],
     "Intelligence": ["analysis", "report", "outlook", "forecast", "research", "strategy"],
 }
+
+
+CONTENT_PATH = ROOT / "data" / "content.json"
+
+OG_RE = re.compile(r'<meta[^>]+(?:property|name)=["\']og:(?:image|title|site_name)["\'][^>]+content=["\']([^"\']*)["\']', re.I)
+OG_RE2 = re.compile(r'<meta[^>]+content=["\']([^"\']*)["\'][^>]+(?:property|name)=["\']og:(?:image|title|site_name)["\']', re.I)
+
+
+def extract_og(url):
+    """Fetch a page and return {image, title, site_name} from OpenGraph meta."""
+    data = http_get(url, timeout=15, retries=1)
+    if not data:
+        return {}
+    text = data.decode("utf-8", "replace")
+    out = {}
+    for m in itertools.chain(OG_RE.finditer(text), OG_RE2.finditer(text)):
+        prop = m.group(0)
+        val = (m.group(1) if "content" in m.group(0)[:m.group(0).find("content")] else m.group(1))
+        if "og:image" in prop and "image" not in out:
+            out["image"] = val
+        elif "og:title" in prop and "title" not in out:
+            out["title"] = val
+        elif "og:site_name" in prop and "site_name" not in out:
+            out["site_name"] = val
+    # fallback: first <img> src in description
+    if "image" not in out:
+        m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', text)
+        if m and not m.group(1).startswith("data:"):
+            out["image"] = m.group(1)
+    if out.get("image") and out["image"].startswith("/"):
+        from urllib.parse import urljoin
+        out["image"] = urljoin(url, out["image"])
+    return out
+
+
+def enrich_articles(articles):
+    """Fetch og:image + credit for articles that lack an image (parallel)."""
+    def one(a):
+        a = dict(a)
+        url = a.get("source_url", "")
+        if url and not a.get("image"):
+            og = extract_og(url)
+            if og.get("image"):
+                a["image"] = og["image"]
+                a["image_credit"] = og.get("site_name") or a.get("image_credit") or url.split("/")[2]
+                print(f"  [ok] og:image {a.get('slug')} -> {og['image'][:60]}")
+        return a
+    with ThreadPoolExecutor(max_workers=6) as ex:
+        return list(ex.map(one, articles))
 
 
 def http_get(url, timeout=12, retries=1):
@@ -177,9 +228,23 @@ def fetch_one_rss(feed):
         pub = (item.findtext("pubDate") or "").strip()
         if not title:
             continue
+        img = ""
+        mc = item.find("media:content", {"media": "http://search.yahoo.com/mrss/"})
+        if mc is not None and mc.get("url"):
+            img = mc.get("url")
+        if not img:
+            enc = item.find("enclosure")
+            if enc is not None and enc.get("url"):
+                img = enc.get("url")
+        if not img:
+            desc = (item.findtext("description") or "")
+            m = re.search(r'<img[^>]+src=["\']([^"\']+)["\']', desc)
+            if m and not m.group(1).startswith("data:"):
+                img = m.group(1)
         items.append({"title": title[:180], "url": link,
                       "source": feed.split("//")[1].split("/")[0],
-                      "date": pub[:16], "category": classify(title), "summary": ""})
+                      "date": pub[:16], "category": classify(title),
+                      "summary": "", "image": img})
         if len(items) >= 8:
             break
     return items
@@ -232,6 +297,13 @@ def main():
         chem = fetch_pubchem() or seed.get("chemistry", [])
         headlines = fetch_rss() or seed.get("headlines", [])
 
+    # Cambreth editorial dataset: full articles + founder quotes
+    content = {}
+    if CONTENT_PATH.exists():
+        content = json.loads(CONTENT_PATH.read_text(encoding="utf-8"))
+    articles = enrich_articles(content.get("articles", []))
+    founder = content.get("founder", {})
+
     prices = merge_prices(seed.get("prices", []), fred)
 
     out = {
@@ -245,7 +317,21 @@ def main():
         "prices": prices,
         "headlines": headlines,
         "chemistry": chem,
+        "articles": articles,
+        "founder": founder,
     }
+
+    # preserve previously generated AI articles + founder quote if dig runs standalone
+    if OUT_PATH.exists():
+        try:
+            prev = json.loads(OUT_PATH.read_text(encoding="utf-8"))
+            if prev.get("ai_articles") and not out.get("ai_articles"):
+                out["ai_articles"] = prev["ai_articles"]
+                out["ai_generated_at"] = prev.get("ai_generated_at", "")
+            if prev.get("founder_today") and not out.get("founder_today"):
+                out["founder_today"] = prev["founder_today"]
+        except Exception:  # noqa: BLE001
+            pass
 
     OUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     OUT_PATH.write_text(json.dumps(out, indent=2, ensure_ascii=False), encoding="utf-8")
