@@ -14,7 +14,7 @@ concurrency:
 
 jobs:
   dig:
-    name: Fetch fresh public data → data/raw-industrial.json
+    name: Fetch data → generate AI articles → commit
     runs-on: ubuntu-latest
     timeout-minutes: 15
     steps:
@@ -28,6 +28,11 @@ jobs:
 
       - name: Run the Daily Dig
         run: python3 scripts/dig.py
+
+      - name: Generate server-side AI articles + Founder's quote
+        run: python3 scripts/synthesize.py
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
 
       - name: Verify data file
         run: |
