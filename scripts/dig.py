@@ -303,6 +303,7 @@ def main():
         content = json.loads(CONTENT_PATH.read_text(encoding="utf-8"))
     articles = enrich_articles(content.get("articles", []))
     founder = content.get("founder", {})
+    about = content.get("about", {})
 
     prices = merge_prices(seed.get("prices", []), fred)
 
@@ -319,6 +320,7 @@ def main():
         "chemistry": chem,
         "articles": articles,
         "founder": founder,
+        "about": about,
     }
 
     # preserve previously generated AI articles + founder quote if dig runs standalone
