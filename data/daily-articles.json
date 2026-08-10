@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T20:04:23.438710+00:00",
+  "generated_at": "2026-08-10T22:19:35.716254+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Lamola calls for value-added critical minerals industry to drive Africa's industrialisation",
@@ -16,6 +16,19 @@
   },
   "articles": [
     {
+      "title": "Largo shares surge 15% as it adds copper, PGMs to Brazil mine",
+      "summary": "Move comes after Brazil mining authority cleared Largo to add copper and PGMs production at its flagship vanadium mine. The post Largo shares surge 15% as it adds copper, PGMs to Brazil mine appeared first on The Northern Miner .",
+      "source": "The Northern Miner",
+      "url": "https://www.northernminer.com/news/largo-shares-surge-15-as-it-adds-copper-pgms-to-brazil-mine/1003893845/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/LARGO-Maracas-Menchen-vanadium-mine.jpg",
+      "published": "2026-08-10T13:53:00+00:00",
+      "topic": "copper",
+      "authority": 8,
+      "research_signal": "supply",
+      "evidence_score": 92,
+      "confidence": "high"
+    },
+    {
       "title": "Resolution Copper awards $110m contracts for Arizona mine",
       "summary": "Resolution Copper has selected Major Drilling America and Redpath USA Corporation for contracts totalling around $110m as part of efforts to develop its proposed underground copper mine in Arizona. The post Resolution Copper awards $110m contracts for Arizona mine appeared first on Mining Technology",
       "source": "Mining Technology",
@@ -26,6 +39,19 @@
       "authority": 8,
       "research_signal": "supply",
       "evidence_score": 86,
+      "confidence": "high"
+    },
+    {
+      "title": "Volta drills gallium 210m past Springer pit",
+      "summary": "Volta Metals (CSE: VLTA; US-OTC: VOLMF) traced gallium 210 metres beneath the current open-pit outline at its Springer rare earth project in Ontario, widening the mineralized footprint beyond what the... The post Volta drills gallium 210m past Springer pit appeared first on The Northern Miner .",
+      "source": "The Northern Miner",
+      "url": "https://www.northernminer.com/news/volta-drills-gallium-210m-past-springer-pit/1003893849/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/volta-metals-2-copy.jpg",
+      "published": "2026-08-10T17:26:51+00:00",
+      "topic": "rare-earths",
+      "authority": 8,
+      "research_signal": "supply",
+      "evidence_score": 92,
       "confidence": "high"
     },
     {
@@ -84,8 +110,8 @@
       "title": "Inferred tonnes drive rare earth growth in Avalon update",
       "summary": "An updated resource estimate for Avalon Advanced Materials’ (TSX: AVL; US-OTC: AVLNF) Basal zone at its Nechalacho rare earths project in the Northwest Territories raises the global contained resource by 42%, as... The post Inferred tonnes drive rare earth growth in Avalon update appeared first on T",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/news/inferred-tonnes-drive-rare-earth-growth-in-avalon-update/1003893751/",
-      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Nechalacho2-2-scaled-1.jpg",
+      "url": "https://www.northernminer.com/subscribe-login/?id=1003893751",
+      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
       "published": "2026-08-06T21:00:12+00:00",
       "topic": "rare-earths",
       "authority": 8,
@@ -157,7 +183,7 @@
     },
     {
       "source": "Aggregates Business",
-      "error": "not well-formed (invalid token): line 1, column 116"
+      "error": "HTTP Error 401: Unauthorized"
     }
   ]
 }
