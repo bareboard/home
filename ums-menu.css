@@ -1,0 +1,6 @@
+/* UMS LIVE header menu: one compact three-dot control and a single market destination. */
+.ums-menu-dots { display: inline-flex; align-items: center; justify-content: center; width: 20px; height: 20px; color: currentColor; font-size: 22px; font-weight: 700; letter-spacing: 2px; line-height: 1; }
+.ums-market-menu { position: absolute; z-index: 10001; top: calc(100% + 6px); left: 10px; min-width: 160px; padding: 8px; border: 1px solid #d9dce1; border-radius: 8px; background: #fff; box-shadow: 0 8px 20px rgba(0,0,0,.16); opacity: 0; transform: translateY(-6px); pointer-events: none; transition: opacity .18s ease, transform .18s ease; }
+.ums-market-menu.is-open { opacity: 1; transform: translateY(0); pointer-events: auto; }
+.ums-market-menu a { display: block; padding: 10px 12px; color: #222830; font: inherit; font-weight: 700; text-decoration: none; }
+.ums-market-menu a:hover, .ums-market-menu a:focus { background: #f2f4f7; }
