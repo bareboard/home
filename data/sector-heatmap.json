@@ -1,0 +1,74 @@
+{
+  "generated_at": "2026-08-10T02:16:12.977923+00:00",
+  "sectors": [
+    {
+      "name": "Battery Materials",
+      "topics": [
+        "lithium",
+        "cobalt",
+        "nickel"
+      ],
+      "signal_weight": 23.01,
+      "momentum": 0.79,
+      "evidence_score": 30.7
+    },
+    {
+      "name": "Copper & Grid",
+      "topics": [
+        "copper"
+      ],
+      "signal_weight": 20.4,
+      "momentum": 0.21,
+      "evidence_score": 264.0
+    },
+    {
+      "name": "Rare Earths & Magnets",
+      "topics": [
+        "rare-earths"
+      ],
+      "signal_weight": 15.01,
+      "momentum": -11.9,
+      "evidence_score": 86.0
+    },
+    {
+      "name": "Processing & Refining",
+      "topics": [
+        "cobalt",
+        "nickel",
+        "lithium",
+        "rare-earths"
+      ],
+      "signal_weight": 12.56,
+      "momentum": -2.39,
+      "evidence_score": 44.5
+    },
+    {
+      "name": "Graphite & Anodes",
+      "topics": [
+        "graphite"
+      ],
+      "signal_weight": 11.94,
+      "momentum": 0.0,
+      "evidence_score": 0.0
+    },
+    {
+      "name": "Construction Aggregates",
+      "topics": [
+        "aggregates"
+      ],
+      "signal_weight": 10.71,
+      "momentum": 0.0,
+      "evidence_score": 346.0
+    },
+    {
+      "name": "Strategic Minor Minerals",
+      "topics": [
+        "gallium"
+      ],
+      "signal_weight": 6.37,
+      "momentum": 1.67,
+      "evidence_score": 0.0
+    }
+  ],
+  "method": "signal weight combines named sector relevance, current benchmark movement and sourced evidence"
+}
