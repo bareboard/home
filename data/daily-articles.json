@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T03:00:01.034995+00:00",
+  "generated_at": "2026-08-10T08:54:42.317701+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Lamola calls for value-added critical minerals industry to drive Africa's industrialisation",
@@ -15,6 +15,19 @@
     "confidence": "high"
   },
   "articles": [
+    {
+      "title": "Resolution Copper awards $110m contracts for Arizona mine",
+      "summary": "Resolution Copper has selected Major Drilling America and Redpath USA Corporation for contracts totalling around $110m as part of efforts to develop its proposed underground copper mine in Arizona. The post Resolution Copper awards $110m contracts for Arizona mine appeared first on Mining Technology",
+      "source": "Mining Technology",
+      "url": "https://www.mining-technology.com/news/resolution-copper-110m-contracts-arizona-mine/",
+      "image": "https://www.mining-technology.com/wp-content/uploads/sites/19/2026/08/Mining-1-10Aug26-untitled-88-1500x630-1.jpg",
+      "published": "2026-08-10T07:49:47+00:00",
+      "topic": "copper",
+      "authority": 8,
+      "research_signal": "supply",
+      "evidence_score": 86,
+      "confidence": "high"
+    },
     {
       "title": "DRC probes how uranium ‘leaked’ into cobalt exports",
       "summary": "The Democratic Republic of Congo is investigating uranium contamination in cobalt exports after researchers estimated that thousands of tonnes of the radioactive metal probably left the world’s largest cobalt-producing nation... The post DRC probes how uranium ‘leaked’ into cobalt exports appeared f",
@@ -45,8 +58,8 @@
       "title": "Perpetua makes tungsten discovery in Idaho",
       "summary": "Perpetua Resources (TSX, Nasdaq: PPTA) said Thursday it has identified gold and antimony exploration targets with the potential for extensions of the permitted pits within its Stibnite project in Idaho,... The post Perpetua makes tungsten discovery in Idaho appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893806",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/perpetua-makes-tungsten-discovery-in-idaho/1003893806/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Stibnite-Gold-pit.webp",
       "published": "2026-08-07T14:15:39+00:00",
       "topic": "critical-minerals",
       "authority": 8,
@@ -120,19 +133,6 @@
       "confidence": "medium"
     },
     {
-      "title": "Top 100 Producers of Construction Sand & Gravel",
-      "summary": "The U.S. Geological Survey reports that its updated list of the “Top 100 Producers Of Construction Sand and Gravel In The United States” will not be available until the end of the year. This listing includes data available through 2024. In descending order of tonnage produced, the top 100 companies,",
-      "source": "Rock Products",
-      "url": "https://rockproducts.com/2026/08/07/top-100-producers-of-construction-sand-gravel-2/?utm_source=rss&utm_medium=rss&utm_campaign=top-100-producers-of-construction-sand-gravel-2",
-      "image": "https://rockproducts.com/wp-content/uploads/2020/10/cropped-RockProducts_RedLogo.png",
-      "published": "2026-08-07T18:45:08+00:00",
-      "topic": "aggregates",
-      "authority": 7,
-      "research_signal": "aggregates",
-      "evidence_score": 82,
-      "confidence": "medium"
-    },
-    {
       "title": "US Aggregates Expands Footprint in Indiana",
       "summary": "US Aggregates acquired New Point Stone and Harrison Sand and Gravel, expanding its aggregates footprint in southeast Indiana with the addition of five limestone quarries and two sand and gravel plants. The acquisition strengthens US Aggregates’ ability to serve customers across Indiana while adding ",
       "source": "Rock Products",
@@ -144,12 +144,29 @@
       "research_signal": "aggregates",
       "evidence_score": 88,
       "confidence": "medium"
+    },
+    {
+      "title": "Top 100 Producers of Construction Sand & Gravel",
+      "summary": "The U.S. Geological Survey reports that its updated list of the “Top 100 Producers Of Construction Sand and Gravel In The United States” will not be available until the end of the year. This listing includes data available through 2024. In descending order of tonnage produced, the top 100 companies,",
+      "source": "Rock Products",
+      "url": "https://rockproducts.com/2026/08/07/top-100-producers-of-construction-sand-gravel-2/?utm_source=rss&utm_medium=rss&utm_campaign=top-100-producers-of-construction-sand-gravel-2",
+      "image": "https://rockproducts.com/wp-content/uploads/2020/10/cropped-RockProducts_RedLogo.png",
+      "published": "2026-08-07T18:45:08+00:00",
+      "topic": "aggregates",
+      "authority": 7,
+      "research_signal": "aggregates",
+      "evidence_score": 82,
+      "confidence": "medium"
     }
   ],
   "source_failures": [
     {
       "source": "MINING.com",
       "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "source": "International Mining",
+      "error": "HTTP Error 415: Unsupported Media Type"
     },
     {
       "source": "Pit & Quarry",
