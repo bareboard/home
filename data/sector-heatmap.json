@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T11:57:47.578013+00:00",
+  "generated_at": "2026-08-10T14:11:15.584517+00:00",
   "sectors": [
     {
       "name": "Battery Materials",
@@ -18,7 +18,7 @@
         "copper"
       ],
       "signal_weight": 21.48,
-      "momentum": 0.59,
+      "momentum": -0.09,
       "evidence_score": 436.0
     },
     {
