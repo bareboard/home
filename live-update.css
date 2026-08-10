@@ -1,0 +1,8 @@
+/* UMS LIVE live sector update: occupies a former cloned native-ad slot without changing article-card structure. */
+.ums-live-slot { display: block !important; min-height: 0 !important; padding: 18px 20px !important; border-top: 3px solid #d3122a; border-bottom: 3px solid #d3122a; background: #fff; }
+.ums-live-kicker { display: inline-flex; align-items: center; gap: 6px; padding: 4px 7px; border-radius: 3px; background: #d3122a; color: #fff; font-size: 10px; font-weight: 800; letter-spacing: .08em; line-height: 1; }
+.ums-live-dot { width: 6px; height: 6px; border-radius: 50%; background: #fff; animation: ums-live-pulse 1.35s ease-in-out infinite; }
+.ums-live-headline { margin: 11px 0 7px; color: #20252b; font: inherit; font-size: 22px; font-weight: 800; line-height: 1.15; }
+.ums-live-summary { display: block; overflow: visible; margin: 0; color: #6b7280; font: inherit; font-size: 13px; line-height: 1.4; }
+@keyframes ums-live-pulse { 0%,100% { opacity: .35; transform: scale(.8); } 50% { opacity: 1; transform: scale(1.2); } }
+@media (max-width: 767px) { .ums-live-slot { padding: 16px; } .ums-live-headline { font-size: 19px; } }

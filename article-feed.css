@@ -1,0 +1,3 @@
+/* Research-source article listing: preserves existing Yahoo card geometry and adds source attribution beneath the deck. */
+.bareboard-source-dek { margin: 5px 0 0; color: inherit; font: inherit; }
+.bareboard-source-credit { margin-top: 5px; color: #6b7280; font-size: 11px; line-height: 1.2; }
