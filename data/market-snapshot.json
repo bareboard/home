@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:19:35.998471+00:00",
+  "generated_at": "2026-08-11T04:06:43.694570+00:00",
   "benchmarks": [
     {
       "symbol": "GA",
@@ -28,17 +28,17 @@
       "unit": "CNY/t",
       "change": "+1.23%",
       "source": "Trading Economics",
-      "as_of": "2026-08-10",
+      "as_of": "2026-08-11",
       "topic": "lithium"
     },
     {
       "symbol": "CU",
       "name": "Copper",
-      "value": "6.61",
+      "value": "6.63",
       "unit": "USD/lb",
-      "change": "+0.64%",
+      "change": "+0.56%",
       "source": "Trading Economics",
-      "as_of": "2026-08-10",
+      "as_of": "2026-08-11",
       "topic": "copper"
     },
     {
@@ -48,7 +48,7 @@
       "unit": "USD/t",
       "change": "+0.00%",
       "source": "Trading Economics",
-      "as_of": "2026-08-10",
+      "as_of": "2026-08-11",
       "topic": "cobalt"
     },
     {

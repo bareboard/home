@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:19:35.716254+00:00",
+  "generated_at": "2026-08-11T04:06:43.400242+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Lamola calls for value-added critical minerals industry to drive Africa's industrialisation",
@@ -84,8 +84,8 @@
       "title": "DRC probes how uranium ‘leaked’ into cobalt exports",
       "summary": "The Democratic Republic of Congo is investigating uranium contamination in cobalt exports after researchers estimated that thousands of tonnes of the radioactive metal probably left the world’s largest cobalt-producing nation... The post DRC probes how uranium ‘leaked’ into cobalt exports appeared f",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893804",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/drc-probes-how-uranium-leaked-into-cobalt-exports/1003893804/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/drc-cobalt.jpg",
       "published": "2026-08-07T11:15:00+00:00",
       "topic": "cobalt",
       "authority": 8,
@@ -97,8 +97,8 @@
       "title": "Perpetua makes tungsten discovery in Idaho",
       "summary": "Perpetua Resources (TSX, Nasdaq: PPTA) said Thursday it has identified gold and antimony exploration targets with the potential for extensions of the permitted pits within its Stibnite project in Idaho,... The post Perpetua makes tungsten discovery in Idaho appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893806",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/perpetua-makes-tungsten-discovery-in-idaho/1003893806/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Stibnite-Gold-pit.webp",
       "published": "2026-08-07T14:15:39+00:00",
       "topic": "critical-minerals",
       "authority": 8,
@@ -183,7 +183,7 @@
     },
     {
       "source": "Aggregates Business",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "not well-formed (invalid token): line 1, column 116"
     }
   ]
 }
