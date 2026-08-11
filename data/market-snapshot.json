@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T14:46:13.641644+00:00",
+  "generated_at": "2026-08-11T18:10:45.680346+00:00",
   "benchmarks": [
     {
       "symbol": "GA",
@@ -24,9 +24,9 @@
     {
       "symbol": "CU",
       "name": "Copper",
-      "value": "6.63",
+      "value": "6.62",
       "unit": "USD/lb",
-      "change": "+0.48%",
+      "change": "+0.33%",
       "source": "Trading Economics",
       "as_of": "2026-08-11",
       "topic": "copper"
