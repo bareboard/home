@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T18:12:06.653954+00:00",
+  "generated_at": "2026-08-12T20:25:32.445439+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Apex’s rare earth assays elevate Rift among US projects",
@@ -68,6 +68,19 @@
       "confidence": "high"
     },
     {
+      "title": "Sweden OKs Boliden’s Laver copper concession",
+      "summary": "Sweden rejected appeals against Boliden’s (STO: BOL) mining concession for Laver, clearing a key hurdle for a copper project that could double the country’s output while leaving major environmental and... The post Sweden OKs Boliden’s Laver copper concession appeared first on The Northern Miner .",
+      "source": "The Northern Miner",
+      "url": "https://www.northernminer.com/subscribe-login/?id=1003893948",
+      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "published": "2026-08-12T19:45:11+00:00",
+      "topic": "copper",
+      "authority": 8,
+      "research_signal": "supply",
+      "evidence_score": 92,
+      "confidence": "high"
+    },
+    {
       "title": "Blue Moon purchases 33 US tungsten, antimony projects",
       "summary": "Blue Moon Metals has acquired 33 tungsten and antimony projects in the western US, situated near the company’s Springer complex. The post Blue Moon purchases 33 US tungsten, antimony projects appeared first on Mining Technology .",
       "source": "Mining Technology",
@@ -130,19 +143,6 @@
       "authority": 8,
       "research_signal": "supply",
       "evidence_score": 98,
-      "confidence": "high"
-    },
-    {
-      "title": "Volta drills gallium 210m past Springer pit",
-      "summary": "Volta Metals (CSE: VLTA; US-OTC: VOLMF) traced gallium 210 metres beneath the current open-pit outline at its Springer rare earth project in Ontario, widening the mineralized footprint beyond what the... The post Volta drills gallium 210m past Springer pit appeared first on The Northern Miner .",
-      "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/news/volta-drills-gallium-210m-past-springer-pit/1003893849/",
-      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/volta-metals-2-copy.jpg",
-      "published": "2026-08-10T17:26:51+00:00",
-      "topic": "rare-earths",
-      "authority": 8,
-      "research_signal": "supply",
-      "evidence_score": 92,
       "confidence": "high"
     },
     {
