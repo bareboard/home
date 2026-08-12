@@ -1,6 +1,16 @@
 {
-  "generated_at": "2026-08-11T23:24:03.898590+00:00",
+  "generated_at": "2026-08-12T05:50:19.669489+00:00",
   "benchmarks": [
+    {
+      "symbol": "LITH",
+      "name": "Lithium Carbonate",
+      "value": "148,000",
+      "unit": "CNY/t",
+      "change": "+2.25%",
+      "source": "Trading Economics",
+      "as_of": "2026-08-12",
+      "topic": "lithium"
+    },
     {
       "symbol": "GA",
       "name": "Gallium",
@@ -24,22 +34,12 @@
     {
       "symbol": "CU",
       "name": "Copper",
-      "value": "6.62",
+      "value": "6.63",
       "unit": "USD/lb",
-      "change": "+0.31%",
+      "change": "+0.27%",
       "source": "Trading Economics",
-      "as_of": "2026-08-11",
+      "as_of": "2026-08-12",
       "topic": "copper"
-    },
-    {
-      "symbol": "LITH",
-      "name": "Lithium Carbonate",
-      "value": "144,750",
-      "unit": "CNY/t",
-      "change": "+0.17%",
-      "source": "Trading Economics",
-      "as_of": "2026-08-11",
-      "topic": "lithium"
     },
     {
       "symbol": "COB",
@@ -48,7 +48,7 @@
       "unit": "USD/t",
       "change": "+0.00%",
       "source": "Trading Economics",
-      "as_of": "2026-08-11",
+      "as_of": "2026-08-12",
       "topic": "cobalt"
     },
     {
