@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-12T05:50:19.669489+00:00",
+  "generated_at": "2026-08-12T09:48:47.976122+00:00",
   "sectors": [
     {
       "name": "Battery Materials",
@@ -8,18 +8,18 @@
         "cobalt",
         "nickel"
       ],
-      "signal_weight": 22.81,
+      "signal_weight": 23.49,
       "momentum": 1.24,
-      "evidence_score": 28.7
+      "evidence_score": 57.3
     },
     {
       "name": "Copper & Grid",
       "topics": [
         "copper"
       ],
-      "signal_weight": 20.95,
-      "momentum": 0.27,
-      "evidence_score": 350.0
+      "signal_weight": 19.59,
+      "momentum": 0.77,
+      "evidence_score": 178.0
     },
     {
       "name": "Rare Earths & Magnets",
@@ -38,9 +38,9 @@
         "lithium",
         "rare-earths"
       ],
-      "signal_weight": 12.47,
+      "signal_weight": 13.15,
       "momentum": -2.04,
-      "evidence_score": 44.5
+      "evidence_score": 66.0
     },
     {
       "name": "Graphite & Anodes",
