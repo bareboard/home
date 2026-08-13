@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:46:22.464532+00:00",
+  "generated_at": "2026-08-13T19:58:24.646228+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Bezant starts blasting at Namibia copper and gold project",
@@ -224,19 +224,6 @@
       "confidence": "medium"
     },
     {
-      "title": "NSSGA Looks Toward ‘Building the Future of the Aggregates Industry Together’",
-      "summary": "The National Stone, Sand & Gravel Association (NSSGA) sent a missive to its members regarding the association’s new Strategic Plan: “The aggregates industry has never been more important to America’s future. Every highway, bridge, airport, water system, energy project, manufacturing facility and com",
-      "source": "Rock Products",
-      "url": "https://rockproducts.com/2026/08/07/nssga-looks-toward-building-the-future-of-the-aggregates-industry-together/?utm_source=rss&utm_medium=rss&utm_campaign=nssga-looks-toward-building-the-future-of-the-aggregates-industry-together",
-      "image": "https://rockproducts.com/wp-content/uploads/2020/10/cropped-RockProducts_RedLogo.png",
-      "published": "2026-08-07T17:00:00+00:00",
-      "topic": "aggregates",
-      "authority": 7,
-      "research_signal": "aggregates",
-      "evidence_score": 94,
-      "confidence": "medium"
-    },
-    {
       "title": "Top 100 Producers of Construction Sand & Gravel",
       "summary": "The U.S. Geological Survey reports that its updated list of the “Top 100 Producers Of Construction Sand and Gravel In The United States” will not be available until the end of the year. This listing includes data available through 2024. In descending order of tonnage produced, the top 100 companies,",
       "source": "Rock Products",
@@ -261,7 +248,7 @@
     },
     {
       "source": "Aggregates Business",
-      "error": "not well-formed (invalid token): line 1, column 116"
+      "error": "HTTP Error 401: Unauthorized"
     }
   ]
 }
