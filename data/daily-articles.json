@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:13:35.149810+00:00",
+  "generated_at": "2026-08-13T16:46:22.464532+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Bezant starts blasting at Namibia copper and gold project",
@@ -71,8 +71,8 @@
       "title": "Apex’s rare earth assays elevate Rift among US projects",
       "summary": "Apex Critical Metals (CSE: APXC; US-OTC: APXCF) has expanded high-grade rare earth mineralization at its Rift project in southeastern Nebraska, returning multiple intercepts above 4% total rare earth oxides (REO).... The post Apex’s rare earth assays elevate Rift among US projects appeared first on ",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893920",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/apexs-rare-earth-assays-elevate-rift-among-us-projects/1003893920/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Apex-Jody-Dahrouge-scaled-1.jpeg",
       "published": "2026-08-12T20:25:48+00:00",
       "topic": "rare-earths",
       "authority": 8,
@@ -261,7 +261,7 @@
     },
     {
       "source": "Aggregates Business",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "not well-formed (invalid token): line 1, column 116"
     }
   ]
 }
