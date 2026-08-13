@@ -1,0 +1,50 @@
+/* Mobile-only UMS LIVE header behavior: the complete header stays fixed to the phone viewport. */
+@media (max-width: 767px) {
+  #nimbus-app > header.hideOnPrint {
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 10000;
+    background: var(--background-base, #fff);
+    box-shadow: 0 1px 0 rgba(0, 0, 0, .08);
+  }
+  /* Reserve the exact header height in the page flow so content never runs beneath it. */
+  #nimbus-app {
+    padding-top: var(--ums-mobile-header-height, 108px);
+  }
+}
+
+/* Local UMS LIVE search responses, using the same search field and visual language. */
+.ybar-search-box-container { position: relative; }
+.ums-search-results {
+  position: absolute;
+  z-index: 10002;
+  top: calc(100% + 5px);
+  left: 0;
+  right: 0;
+  display: none;
+  overflow: hidden;
+  border: 1px solid #d9dce1;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 10px 22px rgba(0,0,0,.16);
+}
+.ums-search-results.is-open { display: block; }
+.ums-search-result {
+  display: block;
+  width: 100%;
+  padding: 10px 12px;
+  border: 0;
+  border-bottom: 1px solid #edf0f2;
+  background: #fff;
+  color: #1d252c;
+  cursor: pointer;
+  font: inherit;
+  text-align: left;
+}
+.ums-search-result:last-child { border-bottom: 0; }
+.ums-search-result:hover, .ums-search-result:focus { background: #f3f5f7; outline: 0; }
+.ums-search-result strong, .ums-search-result small { display: block; }
+.ums-search-result small { margin-top: 2px; color: #5d6670; font-size: 12px; }
+.ums-search-empty { padding: 12px; color: #5d6670; font-size: 13px; }

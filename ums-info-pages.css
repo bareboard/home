@@ -1,0 +1,21 @@
+/* Dedicated identity-page content within the existing UMS LIVE shell. */
+[data-ums-info-page] #nimbus-app > section { display:none !important; }
+[data-ums-info-page] main.layoutContainer { min-height:58vh; }
+.ums-identity-page { box-sizing:border-box; max-width:920px; margin:0 auto; padding:64px 32px 76px; color:#20252b; font-family:inherit; }
+.ums-identity-hero { max-width:760px; }
+.ums-identity-eyebrow { display:block; margin-bottom:14px; color:#1769aa; font-size:11px; font-weight:800; letter-spacing:.12em; }
+.ums-identity-hero h1 { max-width:680px; margin:0; color:#20252b; font:inherit; font-size:clamp(38px,5vw,62px); font-weight:800; letter-spacing:-.045em; line-height:1.02; }
+.ums-identity-hero h1::after { content:''; display:block; width:54px; height:3px; margin-top:23px; background:#d3122a; }
+.ums-identity-hero p { max-width:700px; margin:25px 0 0; color:#4b5563; font-size:clamp(18px,2.1vw,23px); line-height:1.55; }
+.ums-identity-rule { height:1px; margin:48px 0 0; background:#d9dce1; }
+.ums-identity-sections { display:grid; gap:0; }
+.ums-identity-section { display:grid; grid-template-columns:76px minmax(0,1fr); gap:20px; padding:32px 0; border-bottom:1px solid #e5e7eb; opacity:0; transform:translateY(12px); animation:ums-identity-in .48s ease forwards; animation-delay:calc(var(--ums-delay) * 90ms); }
+.ums-identity-index { color:#1769aa; font-size:12px; font-weight:800; letter-spacing:.08em; }
+.ums-identity-section h2 { margin:0; color:#20252b; font:inherit; font-size:25px; font-weight:800; letter-spacing:-.02em; line-height:1.16; }
+.ums-identity-section p { max-width:680px; margin:11px 0 0; color:#4b5563; font-size:16px; line-height:1.65; }
+@keyframes ums-identity-in { to { opacity:1; transform:translateY(0); } }
+@media (max-width:767px) { .ums-identity-page { padding:42px 20px 55px; } .ums-identity-section { grid-template-columns:42px minmax(0,1fr); gap:12px; padding:26px 0; } .ums-identity-section h2 { font-size:22px; } .ums-identity-section p { font-size:16px; } }
+@media (prefers-reduced-motion:reduce) { .ums-identity-section { opacity:1; transform:none; animation:none; } }
+/* Organization mark for identity pages supplied by The Cambreth Group International. */
+.ums-identity-logo { width:min(100%,520px); margin:0 0 28px; }
+.ums-identity-logo img { display:block; width:100%; height:auto; }

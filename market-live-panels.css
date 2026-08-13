@@ -1,0 +1,13 @@
+/* Current-market panels occupy existing empty Market-page slots; no new page structure is introduced. */
+.ums-market-live-panel { display:block !important; box-sizing:border-box !important; width:100% !important; min-height:0 !important; height:auto !important; padding:18px 20px !important; border-top:1px solid #d9dce1; border-bottom:1px solid #d9dce1; background:#fff; }
+.ums-market-panel-label { color:#5d6670; font-size:10px; font-weight:800; letter-spacing:.08em; }
+.ums-market-panel-title { margin-top:6px; color:#20252b; font-size:18px; font-weight:800; }
+.ums-market-panel-grid { display:flex; flex-wrap:wrap; gap:10px; margin-top:13px; }
+.ums-market-panel-cell { display:grid; grid-template-columns:auto auto auto; align-items:baseline; column-gap:7px; row-gap:3px; min-width:160px; padding:9px 11px; border:1px solid #d9dce1; border-radius:5px; }
+.ums-market-panel-symbol { color:#285da9; font-size:12px; font-weight:800; letter-spacing:.04em; }
+.ums-market-panel-cell strong { color:#20252b; font-size:16px; }
+.ums-market-panel-cell .is-up { color:#147c6e; font-size:12px; font-weight:800; }
+.ums-market-panel-cell .is-down { color:#c92036; font-size:12px; font-weight:800; }
+.ums-market-panel-cell small { grid-column:1/-1; color:#6b7280; font-size:10px; }
+.ums-market-panel-note { margin-top:11px; color:#6b7280; font-size:11px; }
+@media (max-width:767px) { .ums-market-live-panel { padding:16px !important; } .ums-market-panel-cell { flex:1 1 110px; min-width:0; } }

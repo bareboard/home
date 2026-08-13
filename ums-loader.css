@@ -1,0 +1,7 @@
+/* UMS LIVE opening screen. */
+.ums-opening-screen { position: fixed; inset: 0; z-index: 2147483647; display: flex; align-items: center; justify-content: center; background: #fff; opacity: 1; transition: opacity .28s ease; }
+.ums-opening-screen.is-done { opacity: 0; pointer-events: none; }
+.ums-opening-screen__inner { display: flex; flex-direction: column; align-items: center; gap: 13px; }
+.ums-opening-screen__logo { display: block; width: 86px; height: 21px; object-fit: contain; }
+.ums-opening-screen__spinner { width: 17px; height: 17px; border: 2px solid #d7dbe0; border-top-color: #222830; border-radius: 50%; animation: ums-loader-spin .75s linear infinite; }
+@keyframes ums-loader-spin { to { transform: rotate(360deg); } }

@@ -1,0 +1,5 @@
+/* A brief, data-direction cue appears only after a fresh verified snapshot differs from the prior one. */
+.ums-value-up { animation: ums-verified-up 1.1s ease-out; }
+.ums-value-down { animation: ums-verified-down 1.1s ease-out; }
+@keyframes ums-verified-up { 0% { color: #147c6e; background: rgba(20,124,110,.12); } 100% { color: inherit; background: transparent; } }
+@keyframes ums-verified-down { 0% { color: #c92036; background: rgba(201,32,54,.12); } 100% { color: inherit; background: transparent; } }

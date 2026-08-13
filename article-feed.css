@@ -1,0 +1,12 @@
+/* Research-source article listing: preserves existing Yahoo card geometry and adds source attribution beneath the deck. */
+.bareboard-source-dek { margin: 5px 0 0; color: inherit; font: inherit; }
+.bareboard-source-credit { margin-top: 5px; color: #6b7280; font-size: 11px; line-height: 1.2; }
+/* UMS LIVE sourced headlines remain emphatic, including after a live feed refresh. */
+main .story-item h1,
+main .story-item h2,
+main .story-item h3,
+main .story-item h4,
+main .story-item .title,
+main .story-item .title * { font-weight: 700 !important; }
+/* No clone/stock image may render while source attribution is being resolved. */
+main .story-item:not([data-ums-has-source-image]) img { display: none !important; }

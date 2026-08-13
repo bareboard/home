@@ -1,0 +1,5 @@
+/* Small source-freshness signal appended to existing Market section headers. */
+.ums-market-freshness { margin-left:auto; color:#6b7280; font-size:10px; font-weight:600; letter-spacing:.01em; white-space:nowrap; }
+@media(max-width:767px){.ums-market-freshness{font-size:9px;}}
+/* Market top-of-page cleanup: no reserved clone-ad space before the main headline. */
+#sda-E2E, div[data-ad-config="large-placeholder-e2e"] { display:none !important; width:0 !important; height:0 !important; min-height:0 !important; margin:0 !important; padding:0 !important; }
