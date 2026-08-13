@@ -1,20 +1,33 @@
 {
-  "generated_at": "2026-08-13T09:49:59.004147+00:00",
+  "generated_at": "2026-08-13T14:35:31.836781+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
-    "title": "No material impact anticipated for copper, cobalt market from DRC policy shift – BMI",
-    "summary": "A Democratic Republic of Congo (DRC) Ministerial Order banning the export of copper and cobalt concentrates, which also introduces a new tax regime, is unlikely to have a material impact on either the global copper or cobalt market, but could add a near-term risk premium to copper prices while detai",
+    "title": "Bezant starts blasting at Namibia copper and gold project",
+    "summary": "Aim-listed Bezant Resources has completed the successful first blast at the Hope openpit site at its 90%-owned Hope and Gorob copper/gold project, in Namibia. The company reports that a 20 000 t blast to liberate about 2 000 t of commercially viable mineralisation has been completed.",
     "source": "Mining Weekly",
-    "url": "https://www.miningweekly.com/article/no-material-impact-anticipated-for-copper-cobalt-market-from-drc-policy-shift-bmi-2026-08-12",
-    "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001292066_resized_drccopperandcobaltmine0324bloomberg1022.jpeg",
-    "published": "2026-08-12T17:35:00+00:00",
-    "topic": "cobalt",
+    "url": "https://www.miningweekly.com/article/bezant-starts-blasting-at-namibia-copper-and-gold-project-2026-08-13",
+    "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001292425_resized_0001264299resized0001261605resizeduntitled20260324t165741026.jpeg",
+    "published": "2026-08-13T14:18:00+00:00",
+    "topic": "copper",
     "authority": 9,
-    "research_signal": "policy",
+    "research_signal": "supply",
     "evidence_score": 100,
     "confidence": "high"
   },
   "articles": [
+    {
+      "title": "NeoTerra reports sizable delivery of gallium extraction from initial hydrometallurgy testing",
+      "summary": "LSE-listed NeoTerra says a gallium pre-concentration pathway has been identified through the use of X-ray transmission (XRT) technology at its Monte Muambe critical minerals project, in northwestern Mozambique. The company reports that the initial metallurgy testing using acid route delivered 85% in",
+      "source": "Mining Weekly",
+      "url": "https://www.miningweekly.com/article/neoterra-reports-sizable-delivery-of-gallium-extraction-from-initial-hydrometallurgy-testing-2026-08-13",
+      "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001292332_resized_montemuambe08261022.jpeg",
+      "published": "2026-08-13T12:05:00+00:00",
+      "topic": "critical-minerals",
+      "authority": 9,
+      "research_signal": "supply",
+      "evidence_score": 100,
+      "confidence": "high"
+    },
     {
       "title": "Vale Base Metals expedites coarse particle flotation project at Salobo Copper Complex",
       "summary": "Vale Base Metals has confirmed it is proceeding with the Coarse Particle Flotation (CPF) project underwritten by the Eriez HydroFloat® process, at its Salobo Copper Complex in Brazil. The project is expected to represent a step change that will significantly increase processing and production capaci",
@@ -26,6 +39,19 @@
       "authority": 8,
       "research_signal": "supply",
       "evidence_score": 98,
+      "confidence": "high"
+    },
+    {
+      "title": "Antofagasta’s posts $2B profit, cuts copper outlook",
+      "summary": "Antofagasta (LSE: ANTO) has cut its 2026 copper production forecast after extreme weather shut its flagship Los Pelambres mine in Chile, overshadowing a 27% increase in first-half core earnings. The... The post Antofagasta’s posts $2B profit, cuts copper outlook appeared first on The Northern Miner ",
+      "source": "The Northern Miner",
+      "url": "https://www.northernminer.com/news/antofagastas-posts-2b-profit-cuts-copper-outlook/1003893958/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/04/antofagasta-los-pelambres-copper-mine.jpg",
+      "published": "2026-08-13T10:48:00+00:00",
+      "topic": "copper",
+      "authority": 8,
+      "research_signal": "supply",
+      "evidence_score": 92,
       "confidence": "high"
     },
     {
@@ -136,39 +162,13 @@
       "title": "Blue Moon adds tungsten, antimony projects for $20.5M",
       "summary": "Blue Moon Metals (TSXV: MOON; Nasdaq: BMM) has acquired a set of 33 tungsten and antimony projects in the western U.S., including projects near its Springer complex, among the very... The post Blue Moon adds tungsten, antimony projects for $20.5M appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/news/blue-moon-adds-tungsten-antimony-projects-for-20-5m/1003893870/",
-      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/springer.jpg",
+      "url": "https://www.northernminer.com/subscribe-login/?id=1003893870",
+      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
       "published": "2026-08-11T21:15:43+00:00",
       "topic": "critical-minerals",
       "authority": 8,
       "research_signal": "supply",
       "evidence_score": 92,
-      "confidence": "high"
-    },
-    {
-      "title": "Cobalt supply: why battery recycling patents matter",
-      "summary": "As cobalt supply risks grow, recycling is becoming a strategic source of battery materials, making patents increasingly important. The post Cobalt supply: why battery recycling patents matter appeared first on Mining Technology .",
-      "source": "Mining Technology",
-      "url": "https://www.mining-technology.com/opinion/cobalt-supply-why-battery-recycling-patents-matter/",
-      "image": "https://www.mining-technology.com/wp-content/uploads/sites/19/2026/08/shutterstock_1987123832.jpg",
-      "published": "2026-08-11T13:29:55+00:00",
-      "topic": "cobalt",
-      "authority": 8,
-      "research_signal": "market",
-      "evidence_score": 86,
-      "confidence": "high"
-    },
-    {
-      "title": "Hindustan Copper plans supply of Chilean copper to Hindalco and Adani",
-      "summary": "Hindustan Copper is planning to sell copper concentrate sourced from Chile to Indian companies Hindalco and Adani, according to two sources familiar with the discussions, reported Reuters. The post Hindustan Copper plans supply of Chilean copper to Hindalco and Adani appeared first on Mining Technol",
-      "source": "Mining Technology",
-      "url": "https://www.mining-technology.com/news/hindustan-copper-plans-supply-of-chilean-copper/",
-      "image": "https://www.mining-technology.com/wp-content/uploads/sites/19/2026/08/Mining-5-11Aug26-shutterstock_2075825257.jpg",
-      "published": "2026-08-11T11:56:46+00:00",
-      "topic": "copper",
-      "authority": 8,
-      "research_signal": "market",
-      "evidence_score": 86,
       "confidence": "high"
     },
     {
@@ -235,7 +235,7 @@
     },
     {
       "source": "Aggregates Business",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "not well-formed (invalid token): line 1, column 116"
     }
   ]
 }

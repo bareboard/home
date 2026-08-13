@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T09:49:59.876613+00:00",
+  "generated_at": "2026-08-13T14:35:32.355239+00:00",
   "benchmarks": [
     {
       "symbol": "GA",
@@ -32,6 +32,16 @@
       "topic": "lithium"
     },
     {
+      "symbol": "CU",
+      "name": "Copper",
+      "value": "6.60",
+      "unit": "USD/lb",
+      "change": "+0.06%",
+      "source": "Trading Economics",
+      "as_of": "2026-08-13",
+      "topic": "copper"
+    },
+    {
       "symbol": "COB",
       "name": "Cobalt Metal",
       "value": "56,290",
@@ -60,16 +70,6 @@
       "source": "UMS LIVE research",
       "as_of": "2026-08-09",
       "topic": "aggregates"
-    },
-    {
-      "symbol": "CU",
-      "name": "Copper",
-      "value": "6.54",
-      "unit": "USD/lb",
-      "change": "\u22120.92%",
-      "source": "Trading Economics",
-      "as_of": "2026-08-13",
-      "topic": "copper"
     },
     {
       "symbol": "NDPR",
