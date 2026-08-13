@@ -1,4 +1,0 @@
-/* Removes the cloned empty above-header advertising slot on every Yahoo page. */
-#sda-E2E { display: none !important; }
-/* The shell's menu remains available while preventing it from widening the document itself. */
-html, body { overflow-x: hidden; }
