@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://umslive.github.io/home/sitemap.xml
