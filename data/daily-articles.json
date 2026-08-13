@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T05:52:44.385336+00:00",
+  "generated_at": "2026-08-13T09:49:59.004147+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "No material impact anticipated for copper, cobalt market from DRC policy shift – BMI",
@@ -16,16 +16,55 @@
   },
   "articles": [
     {
+      "title": "Vale Base Metals expedites coarse particle flotation project at Salobo Copper Complex",
+      "summary": "Vale Base Metals has confirmed it is proceeding with the Coarse Particle Flotation (CPF) project underwritten by the Eriez HydroFloat® process, at its Salobo Copper Complex in Brazil. The project is expected to represent a step change that will significantly increase processing and production capaci",
+      "source": "International Mining",
+      "url": "https://im-mining.com/2026/08/13/vale-base-metals-expedites-coarse-particle-flotation-project-at-salobo-copper-complex/",
+      "image": "https://im-mining.com/site/wp-content/uploads/2026/08/salobo-key-metrics.png",
+      "published": "2026-08-13T09:03:19+00:00",
+      "topic": "copper",
+      "authority": 8,
+      "research_signal": "supply",
+      "evidence_score": 98,
+      "confidence": "high"
+    },
+    {
       "title": "Apex’s rare earth assays elevate Rift among US projects",
       "summary": "Apex Critical Metals (CSE: APXC; US-OTC: APXCF) has expanded high-grade rare earth mineralization at its Rift project in southeastern Nebraska, returning multiple intercepts above 4% total rare earth oxides (REO).... The post Apex’s rare earth assays elevate Rift among US projects appeared first on ",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/news/apexs-rare-earth-assays-elevate-rift-among-us-projects/1003893920/",
-      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Apex-Jody-Dahrouge-scaled-1.jpeg",
+      "url": "https://www.northernminer.com/subscribe-login/?id=1003893920",
+      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
       "published": "2026-08-12T20:25:48+00:00",
       "topic": "rare-earths",
       "authority": 8,
       "research_signal": "supply",
       "evidence_score": 92,
+      "confidence": "high"
+    },
+    {
+      "title": "Sedgman supports next phase of growth for North American Lithium",
+      "summary": "Sedgman, a member of the CIMIC Group and the cornerstone of ACS Group’s global critical minerals platform, is supporting the expansion of the North American Lithium (NAL) operation in Québec, Canada, through an ongoing feasibility study and recently awarded detailed design mandate. Following the com",
+      "source": "International Mining",
+      "url": "https://im-mining.com/2026/08/13/sedgman-supports-next-phase-of-growth-for-north-american-lithium/",
+      "image": "https://im-mining.com/site/wp-content/uploads/2026/08/elevra-lithium-north-american-lithium-expansion-release-800x590-1.png",
+      "published": "2026-08-13T07:47:55+00:00",
+      "topic": "lithium",
+      "authority": 8,
+      "research_signal": "supply",
+      "evidence_score": 86,
+      "confidence": "high"
+    },
+    {
+      "title": "First Volvo R70 mining truck in Europe begins work at German limestone quarry",
+      "summary": "The first R70 rigid hauler from Volvo Construction Equipment (Volvo CE) has entered service in Germany, marking a significant milestone for the company’s rigid hauler range in the region. Built at Volvo CE’s Motherwell facility in Scotland, the machine has been delivered to SHF Steinbruchbetriebe fo",
+      "source": "International Mining",
+      "url": "https://im-mining.com/2026/08/13/first-volvo-r70-mining-truck-in-europe-begins-work-at-german-limestone-quarry/",
+      "image": "https://im-mining.com/site/wp-content/uploads/2026/08/volvoce_r70_5_web.jpeg",
+      "published": "2026-08-13T06:38:30+00:00",
+      "topic": "aggregates",
+      "authority": 8,
+      "research_signal": "aggregates",
+      "evidence_score": 86,
       "confidence": "high"
     },
     {
@@ -68,19 +107,6 @@
       "confidence": "high"
     },
     {
-      "title": "Cornish Lithium receives government funding to test out Cross Lanes geothermal lithium project thesis",
-      "summary": "Cornish Lithium has secured grant funding of £7.2 million ($9.7 million) through the UK Government’s DRIVE35 program to part-fund a £14.5 million program of drilling and testing at its Cross Lanes geothermal lithium project in Baldhu, near Truro, southwest England. The program will advance the asses",
-      "source": "International Mining",
-      "url": "https://im-mining.com/2026/08/12/cornish-lithium-receives-government-funding-to-test-out-cross-lanes-geothermal-lithium-project-thesis/",
-      "image": "https://im-mining.com/site/wp-content/uploads/2024/12/IM-OG.png",
-      "published": "2026-08-12T09:02:42+00:00",
-      "topic": "lithium",
-      "authority": 8,
-      "research_signal": "supply",
-      "evidence_score": 86,
-      "confidence": "high"
-    },
-    {
       "title": "Sweden OKs Boliden’s Laver copper concession",
       "summary": "Sweden rejected appeals against Boliden’s (STO: BOL) mining concession for Laver, clearing a key hurdle for a copper project that could double the country’s output while leaving major environmental and... The post Sweden OKs Boliden’s Laver copper concession appeared first on The Northern Miner .",
       "source": "The Northern Miner",
@@ -110,8 +136,8 @@
       "title": "Blue Moon adds tungsten, antimony projects for $20.5M",
       "summary": "Blue Moon Metals (TSXV: MOON; Nasdaq: BMM) has acquired a set of 33 tungsten and antimony projects in the western U.S., including projects near its Springer complex, among the very... The post Blue Moon adds tungsten, antimony projects for $20.5M appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893870",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/blue-moon-adds-tungsten-antimony-projects-for-20-5m/1003893870/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/springer.jpg",
       "published": "2026-08-11T21:15:43+00:00",
       "topic": "critical-minerals",
       "authority": 8,
@@ -143,19 +169,6 @@
       "authority": 8,
       "research_signal": "market",
       "evidence_score": 86,
-      "confidence": "high"
-    },
-    {
-      "title": "TechMet launches domestic critical minerals platform",
-      "summary": "TechMet has launched TechMet USA, a new domestic platform aimed at advancing the production, processing, and recycling of critical minerals. The post TechMet launches domestic critical minerals platform appeared first on Mining Technology .",
-      "source": "Mining Technology",
-      "url": "https://www.mining-technology.com/news/techmet-launches-domestic-critical-minerals-platform/",
-      "image": "https://www.mining-technology.com/wp-content/uploads/sites/19/2026/08/Mining-4-11Aug26-shutterstock_2510068653-2.jpg",
-      "published": "2026-08-11T11:53:08+00:00",
-      "topic": "critical-minerals",
-      "authority": 8,
-      "research_signal": "supply",
-      "evidence_score": 98,
       "confidence": "high"
     },
     {
