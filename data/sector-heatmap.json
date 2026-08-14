@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:30:55.790522+00:00",
+  "generated_at": "2026-08-14T14:42:42.918314+00:00",
   "sectors": [
     {
       "name": "Battery Materials",
@@ -8,7 +8,7 @@
         "cobalt",
         "nickel"
       ],
-      "signal_weight": 23.27,
+      "signal_weight": 23.41,
       "momentum": 1.4,
       "evidence_score": 90.7
     },
@@ -17,8 +17,8 @@
       "topics": [
         "copper"
       ],
-      "signal_weight": 20.91,
-      "momentum": -0.26,
+      "signal_weight": 21.04,
+      "momentum": 0.22,
       "evidence_score": 460.0
     },
     {
@@ -26,7 +26,7 @@
       "topics": [
         "rare-earths"
       ],
-      "signal_weight": 14.33,
+      "signal_weight": 14.42,
       "momentum": -11.9,
       "evidence_score": 92.0
     },
@@ -38,7 +38,7 @@
         "lithium",
         "rare-earths"
       ],
-      "signal_weight": 13.36,
+      "signal_weight": 13.45,
       "momentum": -1.93,
       "evidence_score": 91.0
     },
@@ -47,7 +47,7 @@
       "topics": [
         "graphite"
       ],
-      "signal_weight": 11.36,
+      "signal_weight": 11.43,
       "momentum": 0.0,
       "evidence_score": 0.0
     },
@@ -56,16 +56,16 @@
       "topics": [
         "aggregates"
       ],
-      "signal_weight": 10.71,
+      "signal_weight": 10.15,
       "momentum": 0.0,
-      "evidence_score": 414.0
+      "evidence_score": 332.0
     },
     {
       "name": "Strategic Minor Minerals",
       "topics": [
         "gallium"
       ],
-      "signal_weight": 6.06,
+      "signal_weight": 6.1,
       "momentum": 1.67,
       "evidence_score": 0.0
     }

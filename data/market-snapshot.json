@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T11:30:55.790522+00:00",
+  "generated_at": "2026-08-14T14:42:42.918314+00:00",
   "benchmarks": [
     {
       "symbol": "LITH",
@@ -32,6 +32,16 @@
       "topic": "nickel"
     },
     {
+      "symbol": "CU",
+      "name": "Copper",
+      "value": "6.61",
+      "unit": "USD/lb",
+      "change": "+0.22%",
+      "source": "Trading Economics",
+      "as_of": "2026-08-14",
+      "topic": "copper"
+    },
+    {
       "symbol": "COB",
       "name": "Cobalt Metal",
       "value": "56,290",
@@ -60,16 +70,6 @@
       "source": "UMS LIVE research",
       "as_of": "2026-08-09",
       "topic": "aggregates"
-    },
-    {
-      "symbol": "CU",
-      "name": "Copper",
-      "value": "6.58",
-      "unit": "USD/lb",
-      "change": "\u22120.26%",
-      "source": "Trading Economics",
-      "as_of": "2026-08-14",
-      "topic": "copper"
     },
     {
       "symbol": "NDPR",
