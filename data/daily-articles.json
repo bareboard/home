@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T14:42:42.505771+00:00",
+  "generated_at": "2026-08-14T17:41:54.097004+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Duke University, UCT make tangible investment recommendations ahead of lithium, rare earths boom",
@@ -25,19 +25,6 @@
       "topic": "copper",
       "authority": 8,
       "research_signal": "supply",
-      "evidence_score": 86,
-      "confidence": "high"
-    },
-    {
-      "title": "South Africa’s infrastructure plans and possible industrial renewal",
-      "summary": "Engineering News editor Terence Creamer discusses the relationship between South Africa’s infrastructure plans and possible industrial renewal, which came into focus this week when President Cyril Ramaphosa met with the metals and engineering industry.",
-      "source": "Engineering News",
-      "url": "https://www.engineeringnews.co.za/article/south-africas-infrastructure-plans-and-possible-industrial-renewal-2026-08-14",
-      "image": "https://cdn.creamermedia.com/assets/articles/images/resized/0001292601_resized_1022x575secondtakeen1.jpg",
-      "published": "2026-08-14T08:21:00+00:00",
-      "topic": "critical-minerals",
-      "authority": 8,
-      "research_signal": "aggregates",
       "evidence_score": 86,
       "confidence": "high"
     },
@@ -136,8 +123,8 @@
       "title": "Sweden OKs Boliden’s Laver copper concession",
       "summary": "Sweden rejected appeals against Boliden’s (STO: BOL) mining concession for Laver, clearing a key hurdle for a copper project that could double the country’s output while leaving major environmental and... The post Sweden OKs Boliden’s Laver copper concession appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893948",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/sweden-oks-bolidens-laver-copper-concession/1003893948/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Boliden-Laver-Sweden.jpg",
       "published": "2026-08-12T20:45:11+00:00",
       "topic": "copper",
       "authority": 8,
@@ -196,7 +183,7 @@
     },
     {
       "source": "Aggregates Business",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "not well-formed (invalid token): line 1, column 116"
     }
   ]
 }
