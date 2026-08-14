@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:41:55.014689+00:00",
+  "generated_at": "2026-08-14T19:59:09.499018+00:00",
   "benchmarks": [
     {
       "symbol": "LITH",
@@ -64,9 +64,9 @@
     {
       "symbol": "CU",
       "name": "Copper",
-      "value": "6.58",
+      "value": "6.59",
       "unit": "USD/lb",
-      "change": "\u22120.15%",
+      "change": "\u22120.06%",
       "source": "Trading Economics",
       "as_of": "2026-08-14",
       "topic": "copper"

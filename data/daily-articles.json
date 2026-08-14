@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T17:41:54.097004+00:00",
+  "generated_at": "2026-08-14T19:59:09.065354+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Duke University, UCT make tangible investment recommendations ahead of lithium, rare earths boom",
@@ -16,12 +16,12 @@
   },
   "articles": [
     {
-      "title": "Faraday sees 18B-lb Arizona copper district",
-      "summary": "Faraday Copper (TSX: FDY; US-OTC: CPPKF) expects confirmation drilling at BHP’s (NYSE, LSE, ASX: BHP) former San Manuel mine to support a combined Arizona resource containing more than 18 billion... The post Faraday sees 18B-lb Arizona copper district appeared first on The Northern Miner .",
+      "title": "CEO chat: Faraday sees 18B-lb Arizona copper district",
+      "summary": "Faraday Copper (TSX: FDY; US-OTC: CPPKF) expects confirmation drilling at BHP’s (NYSE, LSE, ASX: BHP) former San Manuel mine to support a combined Arizona resource containing more than 18 billion... The post CEO chat: Faraday sees 18B-lb Arizona copper district appeared first on The Northern Miner .",
       "source": "The Northern Miner",
       "url": "https://www.northernminer.com/news/faraday-targets-18b-lb-arizona-copper-district/1003893982/",
       "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Farday-Copper-is-acquiring-BHPs-former-San-Manual-mine-property-in-Arizona-scaled-1.jpg",
-      "published": "2026-08-14T11:00:00+00:00",
+      "published": "2026-08-14T18:45:00+00:00",
       "topic": "copper",
       "authority": 8,
       "research_signal": "supply",
@@ -58,8 +58,8 @@
       "title": "Vale speeds Salobo copper expansion, cuts costs",
       "summary": "Vale’s (NYSE: VALE) Base Metals (VBM) unit is adding about 30,000 tonnes of annual production at its Salobo mine, Brazil’s largest copper operation, after cutting capital costs and accelerating first... The post Vale speeds Salobo copper expansion, cuts costs appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893964",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/vale-speeds-salobo-copper-expansion-cuts-costs/1003893964/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/salobo.png",
       "published": "2026-08-13T20:45:42+00:00",
       "topic": "copper",
       "authority": 8,
@@ -71,8 +71,8 @@
       "title": "Antofagasta’s posts $2B profit, cuts copper outlook",
       "summary": "Antofagasta (LSE: ANTO) has cut its 2026 copper production forecast after extreme weather shut its flagship Los Pelambres mine in Chile, overshadowing a 27% increase in first-half core earnings. The... The post Antofagasta’s posts $2B profit, cuts copper outlook appeared first on The Northern Miner ",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893958",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/antofagastas-posts-2b-profit-cuts-copper-outlook/1003893958/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/04/antofagasta-los-pelambres-copper-mine.jpg",
       "published": "2026-08-13T16:10:00+00:00",
       "topic": "copper",
       "authority": 8,
@@ -157,19 +157,6 @@
       "research_signal": "supply",
       "evidence_score": 82,
       "confidence": "medium"
-    },
-    {
-      "title": "Top 100 Producers of Construction Sand & Gravel",
-      "summary": "The U.S. Geological Survey reports that its updated list of the “Top 100 Producers Of Construction Sand and Gravel In The United States” will not be available until the end of the year. This listing includes data available through 2024. In descending order of tonnage produced, the top 100 companies,",
-      "source": "Rock Products",
-      "url": "https://rockproducts.com/2026/08/07/top-100-producers-of-construction-sand-gravel-2/?utm_source=rss&utm_medium=rss&utm_campaign=top-100-producers-of-construction-sand-gravel-2",
-      "image": "https://rockproducts.com/wp-content/uploads/2020/10/cropped-RockProducts_RedLogo.png",
-      "published": "2026-08-07T18:45:08+00:00",
-      "topic": "aggregates",
-      "authority": 7,
-      "research_signal": "aggregates",
-      "evidence_score": 82,
-      "confidence": "medium"
     }
   ],
   "source_failures": [
@@ -183,7 +170,7 @@
     },
     {
       "source": "Aggregates Business",
-      "error": "not well-formed (invalid token): line 1, column 116"
+      "error": "HTTP Error 401: Unauthorized"
     }
   ]
 }
