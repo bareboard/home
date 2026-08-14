@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:24:45.448859+00:00",
+  "generated_at": "2026-08-14T05:11:42.618062+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Bezant starts blasting at Namibia copper and gold project",
@@ -45,8 +45,8 @@
       "title": "Vale speeds Salobo copper expansion, cuts costs",
       "summary": "Vale’s (NYSE: VALE) Base Metals (VBM) unit is adding about 30,000 tonnes of annual production at its Salobo mine, Brazil’s largest copper operation, after cutting capital costs and accelerating first... The post Vale speeds Salobo copper expansion, cuts costs appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893964",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/vale-speeds-salobo-copper-expansion-cuts-costs/1003893964/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/salobo.png",
       "published": "2026-08-13T20:45:42+00:00",
       "topic": "copper",
       "authority": 8,
@@ -58,8 +58,8 @@
       "title": "Antofagasta’s posts $2B profit, cuts copper outlook",
       "summary": "Antofagasta (LSE: ANTO) has cut its 2026 copper production forecast after extreme weather shut its flagship Los Pelambres mine in Chile, overshadowing a 27% increase in first-half core earnings. The... The post Antofagasta’s posts $2B profit, cuts copper outlook appeared first on The Northern Miner ",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893958",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/antofagastas-posts-2b-profit-cuts-copper-outlook/1003893958/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/04/antofagasta-los-pelambres-copper-mine.jpg",
       "published": "2026-08-13T16:10:00+00:00",
       "topic": "copper",
       "authority": 8,
@@ -71,8 +71,8 @@
       "title": "Apex’s rare earth assays elevate Rift among US projects",
       "summary": "Apex Critical Metals (CSE: APXC; US-OTC: APXCF) has expanded high-grade rare earth mineralization at its Rift project in southeastern Nebraska, returning multiple intercepts above 4% total rare earth oxides (REO).... The post Apex’s rare earth assays elevate Rift among US projects appeared first on ",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893920",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/apexs-rare-earth-assays-elevate-rift-among-us-projects/1003893920/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Apex-Jody-Dahrouge-scaled-1.jpeg",
       "published": "2026-08-12T20:25:48+00:00",
       "topic": "rare-earths",
       "authority": 8,
@@ -149,8 +149,8 @@
       "title": "Sweden OKs Boliden’s Laver copper concession",
       "summary": "Sweden rejected appeals against Boliden’s (STO: BOL) mining concession for Laver, clearing a key hurdle for a copper project that could double the country’s output while leaving major environmental and... The post Sweden OKs Boliden’s Laver copper concession appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/subscribe-login/?id=1003893948",
-      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
+      "url": "https://www.northernminer.com/news/sweden-oks-bolidens-laver-copper-concession/1003893948/",
+      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Boliden-Laver-Sweden.jpg",
       "published": "2026-08-12T20:45:11+00:00",
       "topic": "copper",
       "authority": 8,
@@ -235,7 +235,7 @@
     },
     {
       "source": "Aggregates Business",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "not well-formed (invalid token): line 1, column 116"
     }
   ]
 }

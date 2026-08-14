@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T22:24:46.211320+00:00",
+  "generated_at": "2026-08-14T05:11:43.149488+00:00",
   "sectors": [
     {
       "name": "Battery Materials",
@@ -9,7 +9,7 @@
         "nickel"
       ],
       "signal_weight": 22.68,
-      "momentum": 0.79,
+      "momentum": 1.4,
       "evidence_score": 57.3
     },
     {
@@ -18,7 +18,7 @@
         "copper"
       ],
       "signal_weight": 21.83,
-      "momentum": -0.37,
+      "momentum": -0.59,
       "evidence_score": 560.0
     },
     {
@@ -39,7 +39,7 @@
         "rare-earths"
       ],
       "signal_weight": 12.7,
-      "momentum": -2.39,
+      "momentum": -1.93,
       "evidence_score": 66.0
     },
     {
