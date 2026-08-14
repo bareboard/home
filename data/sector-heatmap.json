@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T08:52:48.607369+00:00",
+  "generated_at": "2026-08-14T11:30:55.790522+00:00",
   "sectors": [
     {
       "name": "Battery Materials",
@@ -8,25 +8,25 @@
         "cobalt",
         "nickel"
       ],
-      "signal_weight": 23.04,
+      "signal_weight": 23.27,
       "momentum": 1.4,
-      "evidence_score": 86.0
+      "evidence_score": 90.7
     },
     {
       "name": "Copper & Grid",
       "topics": [
         "copper"
       ],
-      "signal_weight": 21.55,
-      "momentum": -0.25,
-      "evidence_score": 560.0
+      "signal_weight": 20.91,
+      "momentum": -0.26,
+      "evidence_score": 460.0
     },
     {
       "name": "Rare Earths & Magnets",
       "topics": [
         "rare-earths"
       ],
-      "signal_weight": 14.25,
+      "signal_weight": 14.33,
       "momentum": -11.9,
       "evidence_score": 92.0
     },
@@ -38,16 +38,16 @@
         "lithium",
         "rare-earths"
       ],
-      "signal_weight": 13.18,
+      "signal_weight": 13.36,
       "momentum": -1.93,
-      "evidence_score": 87.5
+      "evidence_score": 91.0
     },
     {
       "name": "Graphite & Anodes",
       "topics": [
         "graphite"
       ],
-      "signal_weight": 11.3,
+      "signal_weight": 11.36,
       "momentum": 0.0,
       "evidence_score": 0.0
     },
@@ -56,7 +56,7 @@
       "topics": [
         "aggregates"
       ],
-      "signal_weight": 10.65,
+      "signal_weight": 10.71,
       "momentum": 0.0,
       "evidence_score": 414.0
     },
@@ -65,7 +65,7 @@
       "topics": [
         "gallium"
       ],
-      "signal_weight": 6.03,
+      "signal_weight": 6.06,
       "momentum": 1.67,
       "evidence_score": 0.0
     }
