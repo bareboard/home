@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T21:55:57.876566+00:00",
+  "generated_at": "2026-08-14T22:53:53.878807+00:00",
   "method": "public-source feed collection, keyword relevance, deduplication and transparent ranking",
   "live_article": {
     "title": "Duke University, UCT make tangible investment recommendations ahead of lithium, rare earths boom",
@@ -19,8 +19,8 @@
       "title": "CEO chat: Faraday sees 18B-lb Arizona copper district",
       "summary": "Faraday Copper (TSX: FDY; US-OTC: CPPKF) expects confirmation drilling at BHP’s (NYSE, LSE, ASX: BHP) former San Manuel mine to support a combined Arizona resource containing more than 18 billion... The post CEO chat: Faraday sees 18B-lb Arizona copper district appeared first on The Northern Miner .",
       "source": "The Northern Miner",
-      "url": "https://www.northernminer.com/news/faraday-targets-18b-lb-arizona-copper-district/1003893982/",
-      "image": "https://www.northernminer.com/wp-content/uploads/2026/08/Farday-Copper-is-acquiring-BHPs-former-San-Manual-mine-property-in-Arizona-scaled-1.jpg",
+      "url": "https://www.northernminer.com/subscribe-login/?id=1003893982",
+      "image": "https://www.northernminer.com/wp-content/uploads/2023/03/TNM-Logo-3x-300x38.png",
       "published": "2026-08-14T18:45:00+00:00",
       "topic": "copper",
       "authority": 8,
@@ -39,19 +39,6 @@
       "authority": 8,
       "research_signal": "supply",
       "evidence_score": 86,
-      "confidence": "high"
-    },
-    {
-      "title": "Vale Base Metals expedites coarse particle flotation project at Salobo Copper Complex",
-      "summary": "Vale Base Metals has confirmed it is proceeding with the Coarse Particle Flotation (CPF) project underwritten by the Eriez HydroFloat® process, at its Salobo Copper Complex in Brazil. The project is expected to represent a step change that will significantly increase processing and production capaci",
-      "source": "International Mining",
-      "url": "https://im-mining.com/2026/08/13/vale-base-metals-expedites-coarse-particle-flotation-project-at-salobo-copper-complex/",
-      "image": "https://im-mining.com/site/wp-content/uploads/2026/08/salobo-key-metrics.png",
-      "published": "2026-08-13T09:03:19+00:00",
-      "topic": "copper",
-      "authority": 8,
-      "research_signal": "supply",
-      "evidence_score": 98,
       "confidence": "high"
     },
     {
@@ -91,32 +78,6 @@
       "authority": 8,
       "research_signal": "supply",
       "evidence_score": 92,
-      "confidence": "high"
-    },
-    {
-      "title": "Sedgman supports next phase of growth for North American Lithium",
-      "summary": "Sedgman, a member of the CIMIC Group and the cornerstone of ACS Group’s global critical minerals platform, is supporting the expansion of the North American Lithium (NAL) operation in Québec, Canada, through an ongoing feasibility study and recently awarded detailed design mandate. Following the com",
-      "source": "International Mining",
-      "url": "https://im-mining.com/2026/08/13/sedgman-supports-next-phase-of-growth-for-north-american-lithium/",
-      "image": "https://im-mining.com/site/wp-content/uploads/2026/08/elevra-lithium-north-american-lithium-expansion-release-800x590-1.png",
-      "published": "2026-08-13T07:47:55+00:00",
-      "topic": "lithium",
-      "authority": 8,
-      "research_signal": "supply",
-      "evidence_score": 86,
-      "confidence": "high"
-    },
-    {
-      "title": "First Volvo R70 mining truck in Europe begins work at German limestone quarry",
-      "summary": "The first R70 rigid hauler from Volvo Construction Equipment (Volvo CE) has entered service in Germany, marking a significant milestone for the company’s rigid hauler range in the region. Built at Volvo CE’s Motherwell facility in Scotland, the machine has been delivered to SHF Steinbruchbetriebe fo",
-      "source": "International Mining",
-      "url": "https://im-mining.com/2026/08/13/first-volvo-r70-mining-truck-in-europe-begins-work-at-german-limestone-quarry/",
-      "image": "https://im-mining.com/site/wp-content/uploads/2026/08/volvoce_r70_5_web.jpeg",
-      "published": "2026-08-13T06:38:30+00:00",
-      "topic": "aggregates",
-      "authority": 8,
-      "research_signal": "aggregates",
-      "evidence_score": 86,
       "confidence": "high"
     },
     {
@@ -165,12 +126,16 @@
       "error": "HTTP Error 403: Forbidden"
     },
     {
+      "source": "International Mining",
+      "error": "HTTP Error 415: Unsupported Media Type"
+    },
+    {
       "source": "Pit & Quarry",
       "error": "HTTP Error 403: Forbidden"
     },
     {
       "source": "Aggregates Business",
-      "error": "HTTP Error 401: Unauthorized"
+      "error": "not well-formed (invalid token): line 1, column 116"
     }
   ]
 }
