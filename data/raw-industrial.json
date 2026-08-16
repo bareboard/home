@@ -1,6 +1,6 @@
 {
   "meta": {
-    "generated_at": "2026-08-15T07:56:06Z",
+    "generated_at": "2026-08-16T07:56:18Z",
     "version": "2.0.0",
     "pipeline": "dig.py (concurrent FRED + PubChem + RSS + seed fallback)",
     "quick": false,
@@ -250,6 +250,51 @@
   ],
   "headlines": [
     {
+      "title": "Electric Aviation Won't Kill Jet Fuel - But It Could Take the Best Routes First",
+      "url": "https://oilprice.com/Energy/Energy-General/Electric-Aviation-Wont-Kill-Jet-Fuel-But-It-Could-Take-the-Best-Routes-First.html",
+      "source": "oilprice.com",
+      "date": "Sat, 15 Aug 2026",
+      "category": "Markets",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Just 7% of America’s Nuclear Fuel Comes From Home",
+      "url": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Just-7-of-Americas-Nuclear-Fuel-Comes-From-Home.html",
+      "source": "oilprice.com",
+      "date": "Sat, 15 Aug 2026",
+      "category": "Markets",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "The Battle Over North Sea Oil Is Heating Up Under Britain’s New PM",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Battle-Over-North-Sea-Oil-Is-Heating-Up-Under-Britains-New-PM.html",
+      "source": "oilprice.com",
+      "date": "Sat, 15 Aug 2026",
+      "category": "Demand",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Russia's Oil Industry Is Running Out of Room to Absorb More Shocks",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Russias-Oil-Industry-Is-Running-Out-of-Room-to-Absorb-More-Shocks.html",
+      "source": "oilprice.com",
+      "date": "Sat, 15 Aug 2026",
+      "category": "Markets",
+      "summary": "",
+      "image": ""
+    },
+    {
+      "title": "Mexico Is Betting on Biofuel to Tackle Its Seaweed Crisis",
+      "url": "https://oilprice.com/Energy/Energy-General/Mexico-Is-Betting-on-Biofuel-to-Tackle-Its-Seaweed-Crisis.html",
+      "source": "oilprice.com",
+      "date": "Sat, 15 Aug 2026",
+      "category": "Markets",
+      "summary": "",
+      "image": ""
+    },
+    {
       "title": "Somali Piracy Surges Amid Hormuz Blockade",
       "url": "https://oilprice.com/Energy/Energy-General/Somali-Piracy-Surges-Amid-Hormuz-Blockade.html",
       "source": "oilprice.com",
@@ -275,64 +320,19 @@
       "category": "Markets",
       "summary": "",
       "image": ""
-    },
-    {
-      "title": "Oracle’s $165 Billion Data Center Plan Hits a Gas Pipeline Delay",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Oracles-165-Billion-Data-Center-Plan-Hits-a-Gas-Pipeline-Delay.html",
-      "source": "oilprice.com",
-      "date": "Fri, 14 Aug 2026",
-      "category": "Demand",
-      "summary": "",
-      "image": ""
-    },
-    {
-      "title": "Trump’s Tougher Russia Stance Puts Kazakhstan in a Difficult Position",
-      "url": "https://oilprice.com/Geopolitics/Asia/Trumps-Tougher-Russia-Stance-Puts-Kazakhstan-in-a-Difficult-Position.html",
-      "source": "oilprice.com",
-      "date": "Fri, 14 Aug 2026",
-      "category": "Markets",
-      "summary": "",
-      "image": ""
-    },
-    {
-      "title": "US Oil Drillers Add Even More Rigs As Oil Prices Stay Higher",
-      "url": "https://oilprice.com/Energy/Crude-Oil/US-Oil-Drillers-Add-Even-More-Rigs-As-Oil-Prices-Stay-Higher.html",
-      "source": "oilprice.com",
-      "date": "Fri, 14 Aug 2026",
-      "category": "Markets",
-      "summary": "",
-      "image": ""
-    },
-    {
-      "title": "South Africa’s Top Court Blocks Shell Wild Coast Exploration",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/South-Africas-Top-Court-Blocks-Shell-Wild-Coast-Exploration.html",
-      "source": "oilprice.com",
-      "date": "Fri, 14 Aug 2026",
-      "category": "Markets",
-      "summary": "",
-      "image": ""
-    },
-    {
-      "title": "Hormuz Attacks Push Oil Toward $100 Despite US Crude Build",
-      "url": "https://oilprice.com/Energy/Crude-Oil/Hormuz-Attacks-Push-Oil-Toward-100-Despite-US-Crude-Build.html",
-      "source": "oilprice.com",
-      "date": "Fri, 14 Aug 2026",
-      "category": "Markets",
-      "summary": "",
-      "image": ""
     }
   ],
   "chemistry": [
     {
-      "compound": "Copper(II) oxide",
-      "formula": "CuO",
-      "mw": "79.55",
+      "compound": "Cobalt sulfate heptahydrate",
+      "formula": "CoH14O11S",
+      "mw": "281.11",
       "source": "PubChem"
     },
     {
-      "compound": "Lithium carbonate",
-      "formula": "CLi2O3",
-      "mw": "73.9",
+      "compound": "Copper(II) oxide",
+      "formula": "CuO",
+      "mw": "79.55",
       "source": "PubChem"
     },
     {
@@ -348,15 +348,15 @@
       "source": "PubChem"
     },
     {
-      "compound": "Uranium(VI) oxide",
-      "formula": "O3U",
-      "mw": "286.027",
+      "compound": "Lithium carbonate",
+      "formula": "CLi2O3",
+      "mw": "73.9",
       "source": "PubChem"
     },
     {
-      "compound": "Cobalt sulfate heptahydrate",
-      "formula": "CoH14O11S",
-      "mw": "281.11",
+      "compound": "Uranium(VI) oxide",
+      "formula": "O3U",
+      "mw": "286.027",
       "source": "PubChem"
     }
   ],
@@ -365,112 +365,112 @@
   "about": {},
   "ai_articles": [
     {
-      "slug": "daily-market-overview-2026-08-15",
+      "slug": "daily-market-overview-2026-08-16",
       "category": "Markets",
       "kicker": "Briefing",
       "headline": "Daily market overview: the composite tells a sharper story than any single print",
       "summary": "Across the assessed complex, markets are repricing policy risk faster than physical balance; dated, sourced assessments remain the only durable anchor.",
       "byline": "Cambreth Intelligence",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_url": "",
       "image_credit": "",
-      "body": "Today's assessment file covers Lithium carbonate, Lithium hydroxide, Cobalt, Nickel, Copper, and the composite picture is more instructive than any single print. The day's notable moves: Dysprosium oxide 3.8% higher; Cobalt 3.2% higher; Neodymium-praseodymium oxide 2.4% higher. Across the complex, the pattern is consistent: markets are repricing policy risk faster than they are repricing physical balance.\n\nThe discipline that matters for institutional readers is source integrity. Each figure in the table carries an assessment date (2026-07-22) and a named source, and the reliability tag distinguishes live exchange/FRED prints from assessed baselines that await a live feed. Where no verifiable price exists, the correct notation is GAP — an absence stated plainly, rather than an estimate dressed as data.\n\nThe trading implication is structural rather than directional. With processing capacity remaining the binding constraint across lithium, rare earths, graphite and nickel, and with policy calendars running to specific dates, the durable edge belongs to contracts anchored to dated, sourced assessments — not to price forecasts.\n\nKey Takeaway: The projects that balance this market in 2030 are being financed today. Position accordingly.",
+      "body": "Today's assessment file covers Lithium carbonate, Lithium hydroxide, Cobalt, Nickel, Copper, and the composite picture is more instructive than any single print. The day's notable moves: Dysprosium oxide 3.8% higher; Cobalt 3.2% higher; Neodymium-praseodymium oxide 2.4% higher. Across the complex, the pattern is consistent: markets are repricing policy risk faster than they are repricing physical balance.\n\nThe discipline that matters for institutional readers is source integrity. Each figure in the table carries an assessment date (2026-07-22) and a named source, and the reliability tag distinguishes live exchange/FRED prints from assessed baselines that await a live feed. Where no verifiable price exists, the correct notation is GAP — an absence stated plainly, rather than an estimate dressed as data.\n\nThe trading implication is structural rather than directional. With processing capacity remaining the binding constraint across lithium, rare earths, graphite and nickel, and with policy calendars running to specific dates, the durable edge belongs to contracts anchored to dated, sourced assessments — not to price forecasts.\n\nKey Takeaway: Volatility is information. The spread between assessment and administered prices is the market telling you where the leverage is.",
       "origin": "server-synthesis",
       "related_categories": []
     },
     {
-      "slug": "dy-oxide-2026-08-15",
+      "slug": "dy-oxide-2026-08-16",
       "category": "Markets",
       "kicker": "Dysprosium Oxide",
-      "headline": "Dysprosium Oxide: the assessment tells a quieter story than the headline",
+      "headline": "What today's Dysprosium Oxide print actually says about the inventory behaviour",
       "summary": "Dysprosium Oxide assessed at 520000 USD/t, 3.8% higher on the day; the structure beneath the print matters more than the move itself.",
       "byline": "Cambreth Intelligence",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_url": "",
       "image_credit": "",
-      "body": "The numbers in today's data file tell a story that the headlines only gesture at: dysprosium oxide at 520000 USD/t.\n\nDy2O3; ~6.9x China/ex-China multiple (Jul-2026); indispensable for high-temp magnet coercivity.\n\n\n\nOn an assessed basis of 520000 USD/t, the move of 3.8% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-07-15, and its source, Assessed (CREIA / trade monitors), should accompany any institutional citation of this number. The assessment range of 480000 to 560000 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — Dy2O3, China domestic / ex-China — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nThe supply chain's binding constraint is processing, not geology.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: permit decisions on new processing capacity, weekly assessment prints from the primary assessors, offtake announcements from the refining stage, changes in the administered reference price in the dominant market. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: In this complex, security is a processing question wearing a mining costume. Finance the midstream.",
+      "body": "The numbers in today's data file tell a story that the headlines only gesture at: dysprosium oxide at 520000 USD/t.\n\nDy2O3; ~6.9x China/ex-China multiple (Jul-2026); indispensable for high-temp magnet coercivity.\n\n\n\nOn an assessed basis of 520000 USD/t, the move of 3.8% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-07-15, and its source, Assessed (CREIA / trade monitors), should accompany any institutional citation of this number. The assessment range of 480000 to 560000 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — Dy2O3, China domestic / ex-China — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nThe supply chain's binding constraint is processing, not geology.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: permit decisions on new processing capacity, offtake announcements from the refining stage, the spread between administered and assessed quotations, policy statements from the dominant producer. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: Price is the market's memory; the assessment date is its honesty. Anchor contracts to structure, not momentum.",
       "origin": "server-synthesis",
       "related_categories": []
     },
     {
-      "slug": "cobalt-2026-08-15",
+      "slug": "cobalt-2026-08-16",
       "category": "Markets",
       "kicker": "Cobalt",
-      "headline": "Cobalt: the assessment tells a quieter story than the headline",
+      "headline": "What today's Cobalt print actually says about the supply discipline",
       "summary": "Cobalt assessed at 33500 USD/t, 3.2% higher on the day; the structure beneath the print matters more than the move itself.",
       "byline": "Cambreth Intelligence",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_url": "",
       "image_credit": "",
-      "body": "The numbers in today's data file tell a story that the headlines only gesture at: cobalt at 33500 USD/t.\n\nCo metal 99.8%; sulfate CoSO4·7H2O is the battery intermediate; DRC quota system tightens supply.\n\nCobalt sulphate, CoSO4·7H2O, is the intermediate that matters for cathode chemistry, and it concentrates where the refining chain concentrates — a fact the quota regime has made suddenly expensive.\n\nOn an assessed basis of 33500 USD/t, the move of 3.2% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-05-22, and its source, Africa Gold Suppliers / CME aggregate (assessed), should accompany any institutional citation of this number. The assessment range of 30000 to 36000 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — Standard grade (min 99.8% Co), Rotterdam/CIF — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nAvailability, not just price, is now the traded variable; offtake secured at the refinery stage is worth more than spot optionality.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: the spread between administered and assessed quotations, inventory movements at registered warehouses, permit decisions on new processing capacity, changes in the administered reference price in the dominant market. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: Price is the market's memory; the assessment date is its honesty. Anchor contracts to structure, not momentum.",
+      "body": "The numbers in today's data file tell a story that the headlines only gesture at: cobalt at 33500 USD/t.\n\nCo metal 99.8%; sulfate CoSO4·7H2O is the battery intermediate; DRC quota system tightens supply.\n\nCobalt sulphate, CoSO4·7H2O, is the intermediate that matters for cathode chemistry, and it concentrates where the refining chain concentrates — a fact the quota regime has made suddenly expensive.\n\nOn an assessed basis of 33500 USD/t, the move of 3.2% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-05-22, and its source, Africa Gold Suppliers / CME aggregate (assessed), should accompany any institutional citation of this number. The assessment range of 30000 to 36000 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — Standard grade (min 99.8% Co), Rotterdam/CIF — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nAvailability, not just price, is now the traded variable; offtake secured at the refinery stage is worth more than spot optionality.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: financing decisions on midstream projects, changes in the administered reference price in the dominant market, offtake announcements from the refining stage, weekly assessment prints from the primary assessors. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: Volatility is information. The spread between assessment and administered prices is the market telling you where the leverage is.",
       "origin": "server-synthesis",
       "related_categories": []
     },
     {
-      "slug": "ndpr-oxide-2026-08-15",
+      "slug": "ndpr-oxide-2026-08-16",
       "category": "Markets",
       "kicker": "Neodymium-Praseodymium Oxide",
       "headline": "Neodymium-Praseodymium Oxide: the assessment tells a quieter story than the headline",
       "summary": "Neodymium-Praseodymium Oxide assessed at 85000 USD/t, 2.4% higher on the day; the structure beneath the print matters more than the move itself.",
       "byline": "Cambreth Intelligence",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_url": "",
       "image_credit": "",
-      "body": "There is a difference between a price and a valuation. Today's assessment of neodymium-praseodymium oxide at 85000 USD/t belongs firmly in the first category.\n\nNd2O3/Pr6O11 feed for Nd-Fe-B magnets; administered pricing — not a free-market LME-type price.\n\n\n\nOn an assessed basis of 85000 USD/t, the move of 2.4% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-07-15, and its source, Assessed (China domestic administered market), should accompany any institutional citation of this number. The assessment range of 70000 to 100000 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — NdPr oxide, China domestic — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nThe supply chain's binding constraint is processing, not geology.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: inventory movements at registered warehouses, weekly assessment prints from the primary assessors, offtake announcements from the refining stage, policy statements from the dominant producer. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: Volatility is information. The spread between assessment and administered prices is the market telling you where the leverage is.",
+      "body": "For institutions calibrating exposure, the relevant signal today is not the level of neodymium-praseodymium oxide at 85000 USD/t but the structure beneath it.\n\nNd2O3/Pr6O11 feed for Nd-Fe-B magnets; administered pricing — not a free-market LME-type price.\n\n\n\nOn an assessed basis of 85000 USD/t, the move of 2.4% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-07-15, and its source, Assessed (China domestic administered market), should accompany any institutional citation of this number. The assessment range of 70000 to 100000 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — NdPr oxide, China domestic — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nThe supply chain's binding constraint is processing, not geology.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: policy statements from the dominant producer, permit decisions on new processing capacity, changes in the administered reference price in the dominant market, the spread between administered and assessed quotations. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: In this complex, security is a processing question wearing a mining costume. Finance the midstream.",
       "origin": "server-synthesis",
       "related_categories": []
     },
     {
-      "slug": "graphite-2026-08-15",
+      "slug": "graphite-2026-08-16",
       "category": "Supply chain",
       "kicker": "Graphite (Natural, Battery-Grade)",
-      "headline": "What today's Graphite (Natural, Battery-Grade) print actually says about the financing costs",
+      "headline": "Graphite (Natural, Battery-Grade) data, 1.0% higher in a day: structure over noise",
       "summary": "Graphite (Natural, Battery-Grade) assessed at 4000 USD/t, 1.0% higher on the day; the structure beneath the print matters more than the move itself.",
       "byline": "Cambreth Intelligence",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_url": "",
       "image_credit": "",
-      "body": "For institutions calibrating exposure, the relevant signal today is not the level of graphite (natural, battery-grade) at 4000 USD/t but the structure beneath it.\n\nSpherical coated graphite 99.95%C anode; China ~90% of spherical processing.\n\nThe anode chain — spheronisation, purification, coating, graphitisation — is where graphite's strategic value is locked, and it remains overwhelmingly concentrated in Chinese processing.\n\nOn an assessed basis of 4000 USD/t, the move of 1.0% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-06-30, and its source, Assessed (Fastmarkets/BM aggregate), should accompany any institutional citation of this number. The assessment range of 3500 to 4500 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — Flake -100 mesh, 99.95% C, CIF — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nThe midstream gap — mines that can be built in years versus processing that takes decades to scale — is the structural fact of the anode supply chain.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: permit decisions on new processing capacity, weekly assessment prints from the primary assessors, financing decisions on midstream projects, changes in the administered reference price in the dominant market. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: In this complex, security is a processing question wearing a mining costume. Finance the midstream.",
+      "body": "There is a difference between a price and a valuation. Today's assessment of graphite (natural, battery-grade) at 4000 USD/t belongs firmly in the first category.\n\nSpherical coated graphite 99.95%C anode; China ~90% of spherical processing.\n\nThe anode chain — spheronisation, purification, coating, graphitisation — is where graphite's strategic value is locked, and it remains overwhelmingly concentrated in Chinese processing.\n\nOn an assessed basis of 4000 USD/t, the move of 1.0% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-06-30, and its source, Assessed (Fastmarkets/BM aggregate), should accompany any institutional citation of this number. The assessment range of 3500 to 4500 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — Flake -100 mesh, 99.95% C, CIF — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nThe midstream gap — mines that can be built in years versus processing that takes decades to scale — is the structural fact of the anode supply chain.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: offtake announcements from the refining stage, financing decisions on midstream projects, weekly assessment prints from the primary assessors, the spread between administered and assessed quotations. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: When a market is administered, a quoted price is a policy signal. When it is assessed, it is a scarcity signal. Know which you are reading.",
       "origin": "server-synthesis",
       "related_categories": []
     },
     {
-      "slug": "copper-2026-08-15",
+      "slug": "copper-2026-08-16",
       "category": "Demand",
       "kicker": "Copper",
-      "headline": "Reading Copper through the lens of midstream economics",
+      "headline": "What today's Copper print actually says about the financing costs",
       "summary": "Copper assessed at 13552 USD/t, 0.3% higher on the day; the structure beneath the print matters more than the move itself.",
       "byline": "Cambreth Intelligence",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_url": "",
       "image_credit": "",
-      "body": "There is a difference between a price and a valuation. Today's assessment of copper at 13552 USD/t belongs firmly in the first category.\n\nCu cathode 99.99% (Grade A); 60-70 kg per EV; data-centre and grid demand compounding.\n\nEvery energy-transition technology of consequence is a copper technology; grade decline at the world's porphyry operations means each incremental tonne costs more energy, water and time than the last.\n\nOn an assessed basis of 13552 USD/t, the move of 0.3% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-06-01, and its source, FRED (PCOPPUSDM), 2026-06-01, should accompany any institutional citation of this number. The assessment range of 13300 to 13800 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — LME Grade A cash — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nFifteen-year project lead times mean the tonnage that balances 2030 must be financed today; the deficit window is visible in the pipeline, not the price.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: the spread between administered and assessed quotations, weekly assessment prints from the primary assessors, changes in the administered reference price in the dominant market, permit decisions on new processing capacity. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: When a market is administered, a quoted price is a policy signal. When it is assessed, it is a scarcity signal. Know which you are reading.",
+      "body": "There is a difference between a price and a valuation. Today's assessment of copper at 13552 USD/t belongs firmly in the first category.\n\nCu cathode 99.99% (Grade A); 60-70 kg per EV; data-centre and grid demand compounding.\n\nEvery energy-transition technology of consequence is a copper technology; grade decline at the world's porphyry operations means each incremental tonne costs more energy, water and time than the last.\n\nOn an assessed basis of 13552 USD/t, the move of 0.3% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-06-01, and its source, FRED (PCOPPUSDM), 2026-06-01, should accompany any institutional citation of this number. The assessment range of 13300 to 13800 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — LME Grade A cash — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nFifteen-year project lead times mean the tonnage that balances 2030 must be financed today; the deficit window is visible in the pipeline, not the price.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: the spread between administered and assessed quotations, inventory movements at registered warehouses, changes in the administered reference price in the dominant market, financing decisions on midstream projects. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: Volatility is information. The spread between assessment and administered prices is the market telling you where the leverage is.",
       "origin": "server-synthesis",
       "related_categories": []
     },
     {
-      "slug": "lithium-carbonate-2026-08-15",
+      "slug": "lithium-carbonate-2026-08-16",
       "category": "Intelligence",
       "kicker": "Lithium Carbonate",
-      "headline": "Reading Lithium Carbonate through the lens of financing costs",
+      "headline": "Lithium Carbonate data, 2.1% higher in a day: structure over noise",
       "summary": "Lithium Carbonate assessed at 25000 USD/t, 2.1% higher on the day; the structure beneath the print matters more than the move itself.",
       "byline": "Cambreth Intelligence",
-      "date": "2026-08-15",
+      "date": "2026-08-16",
       "source_url": "",
       "image_credit": "",
-      "body": "Markets are rarely wrong about direction for long; they are frequently wrong about timing. Today's data on lithium carbonate at 25000 USD/t is a case in point.\n\nLi2CO3 · 99.5% min. Battery-grade threshold; hydroxide route (LiOH·H2O) preferred for high-nickel cathodes.\n\n\n\nOn an assessed basis of 25000 USD/t, the move of 2.1% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-07-22, and its source, INN / CME / Fastmarkets aggregate (assessed), should accompany any institutional citation of this number. The assessment range of 24000 to 26000 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — 99.5% battery grade, CIF China-Japan-Korea — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nThe supply chain's binding constraint is processing, not geology.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: inventory movements at registered warehouses, financing decisions on midstream projects, weekly assessment prints from the primary assessors, the spread between administered and assessed quotations. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: Price is the market's memory; the assessment date is its honesty. Anchor contracts to structure, not momentum.",
+      "body": "There is a difference between a price and a valuation. Today's assessment of lithium carbonate at 25000 USD/t belongs firmly in the first category.\n\nLi2CO3 · 99.5% min. Battery-grade threshold; hydroxide route (LiOH·H2O) preferred for high-nickel cathodes.\n\n\n\nOn an assessed basis of 25000 USD/t, the move of 2.1% on the day embeds not just physical balance but the market's view of policy risk, inventory behaviour and the financing cost of holding material. The assessment date, 2026-07-22, and its source, INN / CME / Fastmarkets aggregate (assessed), should accompany any institutional citation of this number. The assessment range of 24000 to 26000 USD/t frames the day's print: the low end represents committed tonnage from integrated producers, while the high end is the marginal cost of the last buyer in the market. The location of the print within that band is itself a signal of where the market believes the cycle sits.\n\nThe traded form — 99.5% battery grade, CIF China-Japan-Korea — carries its own premium ladder: purity thresholds separate battery grade from technical grade, and the spread between them widens when downstream chemistry becomes the binding constraint. Institutions comparing prices across forms are, in effect, comparing different products.\n\nThe supply chain's binding constraint is processing, not geology.\n\nThe policy dimension compounds the commercial one. Export licensing, administered pricing and procurement rules all act on this market simultaneously, and each carries a different effective date. The result is a market in which the price is the last thing to move and the first thing to be quoted.\n\nThe watch items are therefore concrete: the spread between administered and assessed quotations, changes in the administered reference price in the dominant market, offtake announcements from the refining stage, weekly assessment prints from the primary assessors. Institutions that position against those markers — rather than against the headline number — are the ones whose risk is priced.\n\nFor the value chain, the operational translation is direct: buyers who anchor contracts to the structure described above — indexed to a dated assessment with a defined form and purity — convert a volatile commodity into a manageable procurement line. Those who trade headline levels are, in effect, writing optionality on policy they do not control.\n\nKey Takeaway: When a market is administered, a quoted price is a policy signal. When it is assessed, it is a scarcity signal. Know which you are reading.",
       "origin": "server-synthesis",
       "related_categories": []
     }
   ],
-  "ai_generated_at": "2026-08-15",
+  "ai_generated_at": "2026-08-16",
   "founder_today": {
     "name": "Fahadh Haneef Cambreth",
     "role": "Founder, The Cambreth Organization",
     "photo": "",
-    "quote": "Markets clear, but they do not forgive. Every deferred investment in processing capacity is a promissory note that comes due with interest.",
-    "quote_index": 10,
-    "date": "2026-08-15",
+    "quote": "What looks like a price spike is often a supply chain announcing, politely, that it is already spoken for.",
+    "quote_index": 11,
+    "date": "2026-08-16",
     "signoff": "— Fahadh Haneef Cambreth"
   }
 }
